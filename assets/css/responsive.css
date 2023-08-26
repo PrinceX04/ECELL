@@ -1,0 +1,5037 @@
+@media only screen and (min-width: 1440px) and (max-width: 1680px) {
+    .header-top::after {
+        width: 96%;
+    }
+    .navbar-area .nav-container .nav-right-content .btn-wrapper {
+        margin-left: 50px;
+    }
+    .header-top .top-single-items {
+        padding-right: 20px;
+    }
+    .header-area .lottie-shape {
+        left: 11%;
+    }
+    .btn-wrapper.poll-btn {
+        right: -3.5%;
+    }
+    .header-area.header-sanatory .senatory-bg-img {
+        right: 0%;
+    }
+    .our-party-section-area .party-bg {
+        min-height: 520px;
+    }
+    .our-party-section-area .party-shape {
+        left: 29%;
+    }
+    .our-party-section-area .party-shape-01 {
+        left: 44%;
+    }
+    .our-party-section-area .party-shape-02 {
+        left: 28%;
+    }
+    .our-party-section-area .party-shape-03 {
+        left: 29%;
+        transform: rotate(62deg);
+    }
+    .nav-container {
+        max-width: 1320px;
+        width: 100%;
+    }
+    /* Home Page Five */
+    .nav-container.home-five {
+        max-width: 1650px;
+    }
+    .header-area.header-sanatory .header-inner-02 p br {
+        display: none;
+    }
+    .header-area.header-sanatory .header-inner-02 p {
+        line-height: 31px;
+    }
+
+    /* Home Page Six */
+
+}
+@media only screen and (max-width: 1440px) {
+    .header-area .lottie-shape {
+        left: 4%;
+        max-width: 190px;
+    } 
+    .header-top::after {
+        width: 100%;
+        border-radius: 0;
+    }
+    .search-popup .search-form {
+        min-width: 1350px;
+    }
+    /* Home Page Five */
+    .header-area.header-sanatory .header-inner-02 p br {
+        display: none;
+    }
+    .nav-container.home-five {
+        max-width: 1415px;
+    }
+    /* Home Page Six */
+    .navbar-area .nav-container .nav-right-content .top-social-share {
+        display: none;
+    }
+    .header-area.header-sanatory.home-six {
+        padding: 210px 0 130px;
+    }
+    .header-area .header-bg-06 {
+        height: 750px;
+        right: -30px;
+    }
+    .header-area .banner-six-shape-02 {
+        right: 90px;
+        top: 50%;
+    }
+    .header-area .header-bg-05 {
+        background-size: contain;
+    }
+    /* Comming Soon */
+    .comming-soon-item {
+        margin-top: 50px;
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+}
+@media only screen and (min-width: 1280px) and (max-width: 1366px) {
+    .header-top::after {
+        width: 95%;
+        border-radius: 0px 0px 0px 10px;
+    }
+    .header-top .top-single-items {
+        margin-left: 55px;
+    }
+    .nav-right-content .icon {
+        display: none;
+    }
+    .nav-container {
+        max-width: 1200px;
+        width: 100%;
+    }
+    .navbar-area .nav-container .navbar-collapse .navbar-nav li + li {
+        margin-left: 30px;
+    }
+    .navbar-area.nav-style-01 .nav-container .nav-right-content {
+        margin-left: 30px;
+    }
+    .navbar-area .nav-container .nav-right-content .btn-wrapper {
+        margin-left: 30px;
+    }
+    .header-area .header-shape {
+        left: 115px;
+    }
+    .header-area.header-sanatory .senatory-bg-img {
+        right: -5%;
+    }
+    .our-party-section-area .party-bg {
+        min-height: 480px;
+    }
+    .party-single-item .content .description {
+        margin-bottom: 20px;
+    }
+    .counter-section-area .counter-shape {
+        left: 20%;
+    }
+    .counter-section-area .counter-shape-01 {
+        left: 25%;
+    }
+    .counter-section-area .counter-shape-02 {
+        right: 18%;
+    }
+    .counter-section-area .counter-shape-03 {
+        right: 23%;
+    }
+    .header-area .top-single-items {
+        left: -8%;
+    }
+    .our-party-section-area .party-bg.vision-bg {
+        min-height: 540px;
+    }
+    .navbar-area.style-01::after {
+        width: 22%;
+    }
+    .header-area.header-sanatory .header-inner.political .form-group .form-btn {
+        right: 24%;
+    }
+    .header-area.header-sanatory.header-bg-02 {
+        padding: 300px 0px 200px;
+    }
+    .people-say-single-item {
+        padding: 50px 0px 0px 50px;
+    }
+    .people-say-single-item .quotes {
+        left: 2%;
+    }
+    .testimonial-section-area .testimonial-carousel-three .owl-dots {
+        padding-left: 50px;
+    }
+    .accoridions .shape {
+        position: absolute;
+        right: 0%;
+        top: 35%;
+    }
+    .accoridions .shape-01 {
+        position: absolute;
+        top: 62%;
+        left: 5%;
+    }
+    .history-timeline-section .history-shape-05 {
+        position: absolute;
+        left: 39%;
+        bottom: 62%;
+    }
+    .history-timeline-section .history-shape-02 {
+        position: absolute;
+        bottom: 36%;
+        left: 0%;
+    }
+    .event-content-section .event-single-shape {
+        left: -69%;
+    }
+    .trafic-section-area .trafic-bg-02 {
+        width: 35%;
+    }
+    .navbar-area.nav-style-02 .nav-container .nav-right-content.style-01 {
+        margin-left: 40px;
+    }
+    .testimonial-section-area .testimonial-carousel-four .owl-nav .owl-prev {
+        left: 9%;
+    }
+    .testimonial-section-area .testimonial-carousel-four .owl-nav .owl-next {
+        left: 15%;
+    }
+    .contact-page-wrapper .contact-form .content .title-shape {
+        position: absolute;
+        left: 32%;
+        top: -50%;
+    }
+    .btn-wrapper.poll-btn {
+        top: 50%;
+        right: -4%;
+    }
+    .poll-wrapper {
+        right: -45%;
+    }
+    .testimonial-carousel-two .owl-item.center .volunteer-single-items {
+        min-height: 407px;
+        height: 407px;
+    }
+    .volunteer-single-items:hover {
+        height: 407px;
+        min-height: 407px;
+    }
+    .header-area .lottie-shape {
+        left: 7%;
+    }
+    .header-area.header-sanatory .senatory-bg-img-02 {
+        left: 13%;
+    }
+    .header-area .senatory-banner {
+        bottom: 140px;
+        left: 0%;
+    }
+    .meet-member-section .dot-shape-02 {
+        left: 6%;
+    }
+    .meet-member-section .dot-shape-03 {
+        right: 4%;
+    }
+    .navbar-area.nav-style-02 .nav-container .navbar-collapse .navbar-nav.home-three {
+        text-align: right;
+    }
+    .header-area .dot-03 {
+        right: 3%;
+    }
+    /* Home Page Five */
+    .header-area.header-sanatory .header-inner-02 .subtitle {
+        font-size: 19px;
+        line-height: 29px;
+    }
+    .header-area.header-sanatory .header-inner-02 .title {
+        font-size: 66px;
+        line-height: 75px;
+    }
+    .header-area.header-sanatory .header-inner-02 p {
+        font-size: 17px;
+    }
+    .nav-container.home-five {
+        max-width: 1336px;
+    }
+    .testimonial-section-area .shapes.political-shape .shape-01 {
+        left: 95%;
+    }
+    .testimonial-section-area .shapes.political-shape .shape-02 {
+        left: 80%;
+    }
+    .testimonial-section-area .shapes.political-shape .shape-03 {
+        left: 85%;
+    }
+    .testimonial-section-area .shapes.political-shape .shape-04 {
+        left: 84%;
+    }
+    /* Home Page Six */
+    .header-area.header-sanatory .header-inner-03 .title {
+        font-size: 60px;
+    }
+    .header-area .header-bg-06 {
+        height: 680px;
+    }
+    .header-area.header-sanatory.home-six {
+        padding: 210px 0 110px;
+    }
+}
+
+@media only screen and (min-width: 1199px) and (max-width: 1200px) {
+    .header-top::after {
+        width: 97%;
+        border-radius: 0px 0px 0px 10px;
+    }
+    .header-area .lottie-shape {
+        left: 3%;
+    }
+    .navbar-area .nav-container .navbar-collapse .navbar-nav li + li {
+        margin-left: 40px;
+    }
+    .header-area.header-sanatory {
+        padding: 140px 0 110px;
+    }
+    .header-area.header-sanatory .senatory-bg-img {
+        height: 625px;
+        width: 860px;
+        right: -18%;
+        top: 14%;
+    }
+    .party-single-item .content .description.none {
+        display: none;
+    }
+    .our-party-section-area .party-bg {
+        min-height: 445px;
+    }
+    .party-single-item .content .subtitle p {
+        margin-bottom: 10px;
+    }
+    .party-single-item .content .title {
+        font-size: 38px;
+        line-height: 48px;
+    }
+    .party-single-item .content .description {
+        margin-bottom: 20px;
+    }
+    .our-party-section-area .party-shape {
+        left: 29%;
+    }
+    .our-party-section-area .party-shape-01 {
+        left: 44%;
+    }
+    .our-party-section-area .party-shape-02 {
+        left: 29%;
+    }
+    .our-party-section-area .party-shape-03 {
+        left: 30%;
+    }
+    .vote-section-area .party-shape-02 {
+        right: 0%;   
+    }
+    .vote-section-area .party-shape-03 {
+        right: -2%;
+    }
+    .our-party-section-area .party-bg.vision-bg {
+        min-height: 474px;
+    }
+    .our-party-section-area .party-vision-shape {
+        display: none;
+    }
+    .navbar-area .nav-container .nav-right-content .btn-wrapper {
+        display: none;
+    }
+    .poll-wrapper {
+        right: -51%;
+    }
+    .testimonial-carousel-two .owl-item.center .volunteer-single-items {
+        min-height: 351px;
+        height: 351px;
+    }
+    .volunteer-single-items:hover {
+        min-height: 351px;
+        height: 351px;
+    }
+    .volunteer-single-items .content {
+        padding-top: 25px;
+    }
+    .btn-wrapper.poll-btn {
+        top: 50%;
+        right: -4.5%;
+    }
+    .header-area.header-bg-03 {
+        padding: 558px 0px 132px;
+    }
+    .header-area.header-sanatory .senatory-bg-img-02 {
+        left: 10%;
+    }
+    .navbar-area.nav-style-02 .nav-container .navbar-collapse .navbar-nav.home-three {
+        text-align: center;
+    }
+    .header-area .dot,.header-area .dot-03 {
+        display: none;
+    }
+}   
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+    .nav-right-content .icon {
+        display: none;
+    }
+    .nav-container {
+        max-width: 992px;
+        width: 100%;
+    }
+    .header-top::after {
+        width: 96%;
+        border-radius: 0px 0px 0px 10px;
+    }
+    .navbar-area .nav-container .nav-right-content .btn-wrapper {
+        display: none;
+    }
+    .header-area.header-sanatory {
+        padding: 120px 0px 100px;
+    }
+    .header-area.header-sanatory .senatory-bg-img {
+        height: 634px;
+        width: 826px;
+        right: -14%;
+        top: 9%;
+    }
+    .header-area .header-shape {
+        left: 70px;
+    }
+    .our-party-section-area .party-bg {
+        display: none;
+    }
+    .party-single-item.vision{
+        padding: 50px 0px;
+    }
+    .our-party-section-area .party-shape {
+        left: 70%;
+    }
+    .our-party-section-area .party-shape-01 {
+        left: 93%;
+    }
+    .our-party-section-area .party-shape-02 {
+        top: 50%;
+        left: 71%;
+    }
+    .our-party-section-area .party-shape-03 {
+        top: 145px;
+        left: 70%;
+    }
+    .testimonial-section-area .owl-carousel .owl-item img.quotes-icon,
+    .testimonial-section-area .owl-carousel .owl-item img.quotes-shape {
+        display: none;
+    }
+    .vote-section-area .party-shape-03 {
+        right: -4%;
+    }
+    .vote-section-area .party-shape-02 {
+        right: -2%;
+    }
+    .campaign-section-area .campaign-single-item .campaign-bg {
+        min-height: 823px;
+    }
+    .counter-single-item .counter-item {
+        margin-bottom: 20px;
+    }
+    .campaign-single-items-02 .shape {
+        top: -5px;
+        right: -13px;
+    }
+    .campaign-single-items-02 {
+        padding: 20px;
+    }
+    .campaign-single-items-02 .content .title-wrapper .title h5 {
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .campaign-single-items-02 .icon {
+        margin-right: 20px;
+    }
+    .counter-section-area .counter-shape {
+        left: 20%;
+    }
+    .counter-section-area .counter-shape-01 {
+        left: 27%;  
+    }
+    .counter-section-area .counter-shape-02 {
+        right: 18%;
+    }
+    .counter-section-area .counter-shape-03 {
+        right: 25%;
+    }
+    .navbar-area .nav-container .navbar-collapse .navbar-nav li + li {
+        margin-left: 35px;
+    }
+    .navbar-area.style-01::after {
+        width: 25%;
+    }
+    .header-area.header-sanatory.header-bg-02 {
+        padding: 220px 0px 150px;
+    }
+    .header-area .top-single-items {
+        left: -10%;
+    }
+    .header-area.header-sanatory .header-inner.political .form-group .form-btn {
+        right: 28%;
+    }
+    .header-area.header-sanatory .header-inner.political .form-group .icon {
+        display: none;
+    }
+    .contact-page-wrapper .contact-form .content .title-shape {
+        left: 24%;
+    }
+    .contact-page-wrapper .contact-form .contact-page-form .form-group textarea {
+        width: 390px;
+    }
+    .testimonial-carousel.political-member .owl-nav .owl-prev {
+        left: 85%;
+    }
+    .counter-section-area .counter-shape-01.style-01 {
+        left: 5%;
+    }
+    .counter-section-area .counter-shape-03.style-01 {
+        right: 5%;
+    }
+    .single-counterup-02 {
+        padding: 30px 0px 29px;
+    }
+    .single-counterup-02 .content .count-wrap {
+        font-size: 60px;
+    }
+    .single-counterup-02 .content .title {
+        font-size: 19px;
+    }
+    .join-party-section-area .join-single-item .content .title {
+        font-size: 36px;
+    }
+    .campaign-section-area .campaign-single-item .campaign-bg-02 {
+        min-height: 873px;
+    }
+    .testimonial-section-area .shapes.political-shape {
+        display: none;
+    }
+    .testimonial-section-area.people-say::after {
+        width: 67%;
+    }
+    .news-single-list .news-single-list-items .thumb img {
+        max-width: 82%;
+    }
+    .news-single-list .news-single-list-items .content .title {
+        line-height: 22px;
+    }
+    .widget.widget_subscribe {
+        padding: 58px 37px;
+    }
+    .administration-section .administration-single-items.style-01 {
+        margin-left: 30px;
+    }
+    .accoridions .shape {
+        position: absolute;
+        right: 0%;
+        top: 45%;
+    }
+    .accoridions .shape-01 {
+        position: absolute;
+        top: 65%;
+        left: 4%;
+    }
+    .people-say-single-item.style-01 {
+        padding: 45px 40px;
+    }
+    .people-say-section .shapes {
+        display: none;
+    }
+    .issues-details-section .taking-action-issue::after {
+        height: 67%;
+        right: -3px;
+    }
+    .blog-pagination ul li a {
+        width: 50px;
+        height: 50px;
+        line-height: 34px;
+    }
+    .team-wrapper {
+        justify-content: center;
+    }
+    .testimonial-carousel-seven .owl-nav .owl-next {
+        right: 22%;
+    }
+    .history-single-item + .history-single-item::after {
+        content: none;
+    }
+    .history-single-item::before {
+        content: none;
+    }
+    .history-single-item .circle {
+        display: none;
+    }
+    .history-timeline-section .history-shape-02 {
+        display: none;
+    }
+    .event-single-items .event-img {
+        background-size: cover;
+    }
+    .event-single-items .post-mate {
+        top: -50px;
+        right: 20px;
+    }
+    .contact-page-wrapper .contact-form .content .title-shape.style-01 {
+        left: 11%;
+        top: -45%;
+    }
+    .contact-page-wrapper .contact-form .contact-page-form .form-group textarea {
+        width: 374px;
+    }
+    .services-single-item {
+        padding: 40px 34px 40px 34px;
+    }
+    .services-single-item .content .title {
+        font-size: 23px;
+        line-height: 33px;
+    }
+    .trafic-section-area .trafic-bg-02 {
+        width: 33%;
+    }
+    .news-single-items .news-bg {
+        min-height: 350px;
+    }
+    blockquote:not(.has-light-gray-color):not(.has-very-dark-gray-color):not(.is-style-large):not(.is-style-large) .author-name.style-01 {
+        right: 22%;
+        bottom: -17%;
+    }
+    .campaign-section-area .campaign-single-items-02 {
+        padding: 40px 25px 40px 25px;
+    }
+    .campaign-section-area .campaign-single-items-02 .icon {
+        margin-right: 20px;
+    }
+    .campaign-section-area .campaign-single-items-02 .content .title-wrapper .title h5 {
+        font-size: 22px;
+        line-height: 32px;
+    }
+    .campaign-section-area .campaign-single-items-02 .content .title-wrapper .line {
+        margin-left: 10px;
+    }
+    .vision-single-item-wrapper::after {
+        height: 720px;
+        width: 530px;
+    }
+    .testimonial-carousel-eight.political-member .owl-nav .owl-prev {
+        left: 85%;
+    }
+    .testimonial-carousel-eight .owl-item.center .single-party-member-item .content .author-meta {
+        top: 71%;
+    }
+    .campaign-section-area .campaign-single-item .campaign-bg-02 {
+        min-height: 683px;
+    }
+    .political-gallery-item .gallery-single-items .content .title {
+        left: 9%;
+    }
+    .footer-top.style-02 {
+        margin-top: 120px;
+    }
+    .volunteer-single-items-02:hover {
+        height: 380px;
+    }
+    .testimonial-carousel-two .owl-item.center .volunteer-single-items {
+        min-height: 442px;
+    }
+    .volunteer-single-items:hover {
+        height: 442px;
+    }
+    .header-area .lottie-shape {
+        left: 4%;
+        max-width: 200px;
+    }
+    .header-area.header-bg-03 {
+        padding: 558px 0px 132px;
+    }
+    .meet-member-wrapper {
+        padding: 35px 30px 35px 35px;
+    }
+    .meet-single-items .content .title {
+        font-size: 39px;
+    }
+    .meet-single-items .content .description {
+        margin-bottom: 20px;
+    }
+    .meet-single-items .link-wrap {
+        margin-top: 0px;
+    }
+    .meet-member-wrapper .meet-member-img .member-quotes {
+        left: -45%;
+    }
+    .strenth-item-wrapper .strenth-single-items {
+        margin-bottom: 50px;
+    }
+    .strenth-section-area .senatory-logo .strenth-img {
+        min-height: 460px;
+    }
+    .youth-leader-section .youth-shape {
+        min-height: 260px;
+        left: 35px;
+        top: 40%;
+    }
+    .political-event-section {
+        margin-top: 70px;
+    }
+    .political-event-single-items .content p {
+        max-width: 450px;
+    }
+    .single-party-member-item-02 .content {
+        left: 19%;
+    }
+    /* Home Page Five */
+    .header-area.header-sanatory.header-bg-04 {
+        padding: 30px 0px 30px;
+    }
+    .header-area.header-sanatory .header-inner-02 .title {
+        font-size: 54px;
+        line-height: 60px;
+    }
+    .header-area.header-sanatory .header-inner-02 .subtitle {
+        font-size: 19px;
+        line-height: 23px;
+        margin-bottom: 10px;
+    }
+    .header-area.header-sanatory .header-inner-02 p {
+        font-size: 16px;
+    }
+    .btn-wrapper .boxed-btn.read-btn {
+        margin-top: 25px;
+    }
+    .services-single-item.style-01 {
+        padding: 25px;
+    }
+    .why-choose-us-section .single-items-wrapper {
+        margin-right: 0px;
+    }
+    .media-content .title {
+        font-size: 20px;
+        font-weight: 600;
+    }
+    .donation-section-area .btn-wrapper .price-btn {
+        margin-right: 10px;
+    }
+    .btn-wrapper.poll-btn {
+        right: -4.5%;
+    }
+    .campaign-list-item .list-single-items .content .title {
+        font-size: 20px;
+    }
+    /* Home Page Six */
+    .header-area.header-sanatory .header-inner-03 .title {
+        font-size: 54px;
+    }
+    .header-area.header-sanatory .header-inner-03 p {
+        max-width: 500px;
+    }
+    .header-area.header-sanatory .header-inner-03 p br {
+        display: none;
+    }
+    .header-area .header-bg-05 {
+        background-size: cover;
+        background-position: inherit;
+        width: 58%;
+        bottom: -3px;
+    }
+    .counter-single-item.style-03 {
+        margin-top: 24px;
+        padding: 15px 25px 10px 25px;
+    }
+    .counter-single-item.style-03 .counter-item {
+        margin-bottom: 0;
+    }
+    .counter-single-item.style-03 .counter-item span {
+        font-size: 40px;
+        line-height: 1;
+    }
+    .counter-single-item.style-03 .counter-item h6 {
+        padding: 0;
+    }
+    .header-area .header-bg-06 {
+        height: 700px;
+        right: -30px;
+        width: 700px;
+        object-fit: contain;
+        bottom: -62px;
+    }
+    .header-area .banner-six-shape-02 {
+        top: 58%;
+        max-width: 170px;
+    }
+    .services-single-item-02 {
+        padding: 0px;
+    }
+    .services-single-section.style-01 {
+        margin-top: 100px;
+    }
+    .our-party-section-area.home-six {
+        padding: 40px 0px;
+        margin-top: 100px;
+    }
+    .party-single-item .content .title {
+        font-size: 37px;
+        line-height: 47px;
+        margin-bottom: 16px;
+    }
+    .party-single-item .content .description {
+        font-size: 15px;
+    }
+    .party-single-item .content .vision-quotes .title {
+        font-size: 18px;
+    }
+    .party-single-item.home-six {
+        padding-left: 20px;
+    }
+    .our-mission-section {
+        margin-top: 85px;
+    }
+    .campaign-section-area .campaign-single-item.home-six .campaign-bg .content-wrap {
+        left: 20px;
+        bottom: 10px;
+    }
+    .counter-single-item.style-04 .counter-item {
+        margin-right: 10px;
+        padding-right: 25px;
+        margin-bottom: 0;
+    }
+    .counter-single-item.style-04 .counter-item span {
+        font-size: 45px;
+        line-height: 1;
+    }
+    .section-title .title {
+        font-size: 35px;
+        line-height: 45px;
+    }
+    .testimonial-single-item {
+        padding: 30px;
+    }
+    .news-single-list.home-six .news-single-list-items {
+        margin-bottom: 10px;
+    }
+    .news-single-list.home-six .news-single-list-items + li {
+        padding-top: 15px;
+    }
+    /* About Us Two */
+    .administration-single-items .icon-box-wrap .icon-box + .icon-box {
+        margin-left: 25px;
+    }
+    .administration-single-items.about-two .administrative-bg {
+        border-radius: 0px;
+        min-height: 635px;
+    }
+    .administration-single-items.about-two .btn-wrapper.administration {
+        left: 20%;
+    }
+    /* Event Two */
+    .issues-around-us-section.home-six .event-single-items .content .subtitle .location {
+        margin-right: 30px;
+    }
+    .event-single-items .content .title {
+        font-size: 20px;
+        line-height: 30px;
+    }
+    /* Event Five */
+    .issues-around-us-section .blog-pagination.event-five {
+        text-align: left;
+    }
+    /* Event Single Two */
+    .event-single-items .bg-wrapper .event-bg.style-01 {
+        min-height: 390px;
+    }
+    .icon-box-wrapper .icon-box-item .icon {
+        width: 45px;
+        height: 45px;
+        line-height: 40px;
+    }
+    .icon-box-wrapper .icon-box-item .icon img {
+        width: 20px;
+    }
+    .icon-box-wrapper .icon-box-item .event-meta {
+        margin-left: 10px;
+    }
+    .icon-box-wrapper .icon-box-item + .icon-box-item {
+        padding-left: 17px;
+        margin-left: 17px;
+    }
+    .icon-box-wrapper .icon-box-item .event-meta .start-text {
+        font-size: 13px;
+    }
+    .icon-box-wrapper .icon-box-item .event-meta .date {
+        font-size: 15px;
+    }
+    .event-single-items .content.style-02 .title {
+        font-size: 27px;
+        line-height: 32px;
+    }
+    .event-single-items .counter-single-item.home-six {
+        padding: 10px 40px 20px 40px;
+        display: inline-block;
+    }
+    .counter-single-item.home-six .counter-item {
+        margin-bottom: 0;
+    }
+    .counter-single-item.home-six .btn-wrapper {
+        margin-left: 0px;
+        margin-top: 9px;
+        text-align: center;
+    }
+    .event-single-items.home-six blockquote:not(.has-light-gray-color):not(.has-very-dark-gray-color):not(.is-style-large):not(.is-style-large) .author-name.style-02 {
+        right: 23%;
+    }
+    /* Donation Single Two */
+    .donation-single-items.home-six .bg-wrapper.home-six .donation-bg {
+        min-height: 390px;
+    }
+    .donation-single-items.home-six blockquote:not(.has-light-gray-color):not(.has-very-dark-gray-color):not(.is-style-large):not(.is-style-large) p.style-04 {
+        font-size: 26px;
+    }
+    .donation-single-items.home-six blockquote:not(.has-light-gray-color):not(.has-very-dark-gray-color):not(.is-style-large):not(.is-style-large) .author-name.style-02 {
+        right: 23%;
+        bottom: -10%;
+    }
+    .donation-single-items .bg-wrapper .donation-bg-03 {
+        min-height: 264px;
+    }
+    /* Blog Two */
+    .news-single-items-two .content .title {
+        font-size: 20px;
+    }
+    /* Comming Soon Page */
+    .comming-soon-section .bg-comming {
+       display: none;
+    }
+    .comming-soon-item {
+        margin-top: 100px;
+        padding-left: 100px;
+        padding-right: 100px;
+    }
+    .comming-soon-item .element-04 {
+        display: none;
+    }
+}   
+
+@media only screen and (max-width: 1024px) {
+    .navbar-area.nav-style-01 .nav-container .nav-right-content {
+        display: none;
+    }
+    .header-area.header-sanatory .senatory-bg-img {
+        right: -24%;
+    }
+    .our-party-section-area .party-vision-shape {
+        display: none;
+    }
+    .poll-wrapper {
+        right: -60%;
+    }
+    .testimonial-carousel-two .owl-item.center .volunteer-single-items {
+        min-height: 413px;
+        height: 413px;
+    }
+    .volunteer-single-items:hover {
+        min-height: 413px;
+        height: 413px;
+    }
+    .header-area .lottie-shape {
+        left: 2%;
+        max-width: 200px;
+    }
+    .btn-wrapper.poll-btn {
+        right: -5.5%;
+    }
+    .header-top::after {
+        width: 98%;
+        border-radius: 0px 0px 0px 10px;
+    }
+    .navbar-area .nav-container .navbar-collapse .navbar-nav li + li {
+        margin-left: 20px;
+    }
+    .navbar-area.style-01::after {
+        width: 23%;
+    }
+    .header-side-content {
+        display: none;
+    }
+    .header-area .dot,.header-area .dot-03 {
+        display: none;
+    }
+    .navbar-area .nav-container .navbar-collapse .navbar-nav li {
+        font-size: 15px;
+    }
+    .navbar-area.nav-style-02 .nav-container .logo-wrapper {
+        max-width: 140px;
+    }
+    .header-area.header-bg-03 {
+        padding: 425px 0px 132px;
+    }
+    .header-area.header-sanatory .senatory-bg-img-02 {
+        left: 10%;
+        height: 790px;
+    }
+    .header-area.header-bg-03 {
+        padding: 450px 0px 132px;
+    }
+    .header-area.header-sanatory .header-inner .title {
+        font-size: 55px;
+        line-height: 65px;
+    }
+    .header-area.header-sanatory .header-inner p.style-01 {
+        max-width: 850px;
+        margin: auto auto 55px auto;
+    }
+    .header-area .subtitle {
+        line-height: 44px;
+    }
+    .header-area .senatory-banner {
+        left: 0%;
+        bottom: 160px;
+    }
+    .youth-leader-section .youth-shape {
+        min-height: 235px;
+        left: 10px;
+    }
+    /* Home Page Five */
+    .navbar-area.nav-style-03 .nav-container {
+        padding: 10px 20px;
+    }
+    /* Home Page Six */
+    .header-area.header-sanatory .header-inner-03 .title {
+        font-size: 50px;
+    }
+    .header-area.header-sanatory .header-inner-03 p br {
+        display: none;
+    }
+    .counter-single-item.style-03 {
+        margin-top: 24px;
+        padding: 15px 25px 10px 25px;
+    }
+    .counter-single-item.style-03 .counter-item {
+        margin-bottom: 0;
+    }
+    .counter-single-item.style-03 .counter-item span {
+        font-size: 40px;
+        line-height: 1;
+    }
+    .counter-single-item.style-03 .counter-item h6 {
+        padding: 0;
+    }
+    .header-area.header-sanatory .header-inner-03 .btn-wrapper {
+        margin-top: 30px;
+    }
+    .header-area .header-bg-06 {
+        height: 720px;
+        right: -58px;
+        width: 720px;
+        object-fit: contain;
+        bottom: -64px;
+    }
+    .header-area .banner-six-shape-02 {
+        top: 56%;
+        max-width: 150px;
+    }
+    /* Issues Single Two */
+    .issues-details-section .bg-wrapper .issue-details-bg-02 {
+        min-height: 387px;
+    }
+}
+
+@media only screen and (max-width: 992px) {
+    .header-area.header-sanatory .senatory-bg-img {
+        height: 560px;
+        width: 675px;
+        right: -18%;
+        top: 16%;
+    }
+    .header-area.header-sanatory {
+        padding: 114px 0px 90px;
+    }
+    .header-area .top-single-items {
+        display: none;
+    }
+    .header-area.header-sanatory .header-inner .title {
+        font-size: 56px;
+        line-height: 76px;
+    }
+    .header-area.header-sanatory .header-inner.political .form-group .form-btn {
+        right: 10%;
+    }
+    .our-party-section-area .party-vision-shape {
+        display: none;
+    }
+    blockquote:not(.has-light-gray-color):not(.has-very-dark-gray-color):not(.is-style-large):not(.is-style-large) .author-name {
+        right: 15%;
+    }
+    blockquote:not(.has-light-gray-color):not(.has-very-dark-gray-color):not(.is-style-large):not(.is-style-large) .author-name.style-01 {
+        right: 22%;
+        bottom: -17%;
+    }
+    .navbar-area .nav-container .nav-right-content {
+        display: none;
+    }
+    .poll-wrapper {
+        right: -62%;
+    }
+    .testimonial-carousel-two .owl-item.center .volunteer-single-items {
+        min-height: 404px;
+        height: 404px;
+    }
+    .volunteer-single-items:hover {
+        min-height: 404px;
+        height: 404px;
+    }
+    .header-top::after {
+        width: 100%;
+        border-radius: 0px;
+    }
+    .header-area .lottie-shape {
+        left: 1%;
+        max-width: 185px;
+    }
+    .header-area.header-bg-03 {
+        padding: 450px 0px 132px;
+    }
+    .youth-leader-section .youth-shape {
+        min-height: 225px;
+        left: 15px;
+    }
+}
+
+@media only screen and (max-width: 991px) {
+    .header-top {
+        display: none;
+    }
+    .nav-container {
+        max-width: 720px;
+        width: 100%;
+    }
+    .header-area .lottie-shape {
+        left: 14%;
+        max-width: 185px;
+    }
+    .header-top .top-social-share {
+        justify-content: center;
+    }
+    .nav-right-content .icon {
+        display: none;
+    }
+    .navbar-toggler:focus {
+        outline: none;
+    }
+    .header-area.header-sanatory .senatory-bg-img {
+        display: none;
+    }
+    .header-area .header-shape {
+        left: 70px;
+    }
+    .header-area.header-sanatory {
+        padding: 150px 0px 117px;
+    }
+    .single-testimonial-item .content .title {
+        font-size: 23px;
+        line-height: 30px;
+    }
+    .header-area.header-bg {
+        background-size: cover;
+        background-position: left;
+    }
+    .our-party-section-area .party-bg {
+        display: none;
+    }
+    .party-single-item.vision {
+        padding: 50px 0px;
+    }
+    .our-party-section-area .party-shape {
+        left: 70%;
+    }
+    .our-party-section-area .party-shape-01 {
+        left: 93%;
+    }
+    .our-party-section-area .party-shape-02 {
+        top: 50%;
+        left: 71%;
+    }
+    .our-party-section-area .party-shape-03 {
+        top: 145px;
+        left: 70%;
+    }
+    .party-single-item .content .title.style-01 {
+        max-width: inherit;
+    }
+    .vote-section-area.vote-bg{
+       background-position: right;
+    }
+    .vote-section-area .party-shape {
+        right: 15%;
+    }
+    .vote-section-area .party-shape-01 {
+        right: -9%;
+    }
+    .vote-section-area .party-shape-02 {
+        right: -4%;
+    }
+    .vote-section-area .party-shape-03 {
+        right: -8%;
+    }
+    .counter-single-item {
+        left: 55px;
+    }
+    .campaign-section-area .campaign-single-item .campaign-bg {
+        border-radius: 10px 10px 0px 0px;
+    }
+    .campaign-list-item {
+        padding: 50px 50px;
+    }
+    .testimonial-carousel-two .owl-nav .owl-prev {
+        right: 90%;
+    }
+    
+    .testimonial-carousel-two .owl-nav .owl-next {
+        left: 90%;
+    }
+    .single-counterup-01.team.style-01 {
+        margin-bottom: 0px;
+    }
+    .single-counterup-01.style-02 {
+        border: none;
+        margin-bottom: 50px;
+    }
+    .counter-section-area .counter-shape-01 {
+        left: 40%;
+    }
+    .counter-section-area .counter-shape-03 {
+        right: 40%;
+    }
+    .testimonial-section-area .owl-carousel .owl-item img.quotes-icon, 
+    .testimonial-section-area .owl-carousel .owl-item img.quotes-shape {
+        display: none;
+    }
+    .testimonial-section-area .shapes,
+    .testimonial-section-area .shapes.style-01 {
+        display: none;
+    }
+    .news-single-list .news-single-list-items {
+        align-items: center;
+    }
+    .news-single-list .news-single-list-items .content {
+        flex: inherit;
+        margin-left: 15px;
+    }
+    .widget.widget_subscribe {
+        margin-top: 50px;
+    }
+    .widget.footer-widget.style-01 {
+        margin-top: 30px;
+    }
+    .widget.footer-widget.style-01 {
+        padding-top: 0;
+    }
+    .navbar-area.nav-style-02 {
+        border-bottom: none;
+    }
+    .navbar-area.style-01::after {
+        width: 100%;
+        left: 0%;
+        transform: none;
+    }
+    .header-area.header-sanatory.header-bg-02 {
+        padding: 200px 0px 110px;
+    }
+    .header-area.header-sanatory .header-inner.political .form-group .form-btn {
+        right: 35%;
+    }
+    .our-vision-item .vision-bg {
+        background-size: cover;
+    }
+    .our-vision-item {
+        margin-top: 0;
+        margin-bottom: 60px;
+    }
+    .our-vision-item .content {
+        padding: 60px 60px;
+    }
+    .our-vision-item .content .title {
+        margin-bottom: 50px;
+    }
+    .vision-single-item-wrapper .our-vision-single-item.style-02 {
+        margin-top: -30px;
+    }
+    .testimonial-carousel.political-member .owl-nav .owl-prev {
+        left: 78%;
+    }
+    .counter-section-area .counter-shape-01.style-01 {
+        left: 8%;
+    }
+    .counter-section-area .counter-shape-03.style-01 {
+        right: 8%;
+    }
+    .single-counterup-02 {
+        margin-bottom: 60px;
+    }
+    .campaign-list-item-02 {
+        margin-top: 60px;
+    }
+    .counter-single-item.style-01 {
+        left: 130px;
+    }
+    .testimonial-section-area.people-say::after {
+        width: 122%;
+    }
+    .widget.footer-widget.widget_subscribe .header-content .title.style-01 {
+        flex: 1;
+        margin-right: 30px;
+        font-size: 32px;
+        line-height: 42px;
+    }
+    .btn-wrapper .boxed-btn.political-btn.style-01 {
+        padding: 15px 45px;
+    }
+    .widget.footer-widget {
+        margin-bottom: 50px;
+    }
+    .administration-section .administration-single-items.style-01 {
+        margin-top: 30px;
+        margin-left: 0px;
+    }
+    .administration-section .administration-single-items .administration-quotes {
+        max-width: inherit;
+    }
+    .administration-section .administration-single-items .list-items ul li {
+        display: block;
+    }
+    .why-choose-us-section .choose-bg-02 {
+        display: none;
+    }
+    .people-say-section .shapes {
+        display: none;
+    }
+    .about-us-section-area .about-inner .title {
+        font-size: 58px;
+        line-height: 78px;
+    }
+    .issues-details-section .taking-action-issue::after {
+        right: -8px;
+        height: 68%;
+        top: 244px;
+    }
+    .more-issue-section .section-title .description.style-02 {
+        max-width: 535px;
+    }
+    .testimonial-carousel-six .owl-nav .owl-prev {
+        right: 11%;
+        top: -90px;
+    }
+    .testimonial-carousel-six .owl-nav .owl-next {
+        top: -90px;
+    }
+    .issues-details-section .taking-action-issue .action-single-items::before {
+        top: 105px;
+    }
+    .issues-details-section .taking-action-issue .action-single-items::after {
+        top: 110px;
+    }
+    .team-wrapper{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+    }
+    .team-section-area .team-wrapper .team {
+        width: 50%;
+    }
+    .team-wrapper .team.style-01 {
+        display: flex;
+        flex-wrap: wrap;
+        width: 100%;
+    }
+    .team.style-01 .volunteer-single-items-02 {
+        width: calc(100%/2);
+        margin-right: 0px;
+    }
+    .volunteer-single-items-02:hover {
+        height: 431px;
+    }
+    .volunteer-single-items-02 .content {
+        padding-top: 35px;
+    }
+    .testimonial-carousel-seven .owl-nav .owl-prev {
+        right: 10%;
+    }
+    .testimonial-carousel-seven .owl-nav .owl-next {
+        right: 2%;
+    }
+    .history-slider .history-shape {
+        display: none;
+    }
+    .our-journey-section .journey-bg {
+       min-height: 520px; 
+    }
+    .history-single-item + .history-single-item::after {
+        content: none;
+    }
+    .history-single-item::before {
+        content: none;
+    }
+    .history-single-item .circle {
+        display: none;
+    }
+    .history-timeline-section .history-shape-02 {
+        display: none;
+    }
+    .history-single-item .history-single-item-content .thumb {
+        background-size: cover;
+        min-height: 245px;
+    }
+    .history-single-item .history-year {
+        margin-left: 60px;
+    }
+    .history-single-item:nth-child(2n) .history-year {
+        margin-right: 60px;
+    }
+    .footer-top.style-01 {
+        margin-top: 120px;
+    }
+    .donation-single-items .bg-wrapper .donation-bg {
+        min-height: 550px;
+    }
+    .about-us-section-area .about-inner.donation-single .title {
+        font-size: 48px;
+        line-height: 70px;
+    }
+    blockquote:not(.has-light-gray-color):not(.has-very-dark-gray-color):not(.is-style-large):not(.is-style-large) p {
+        font-size: 30px;
+        line-height: 45px;
+    }
+    .donation-single-items .content .title {
+        font-size: 35px;
+        line-height: 45px;
+    }
+    blockquote:not(.has-light-gray-color):not(.has-very-dark-gray-color):not(.is-style-large):not(.is-style-large) .author-name {
+        right: 20%;
+    }
+    .volunteer-form {
+        padding: 35px;
+    }
+    .event-single-items .event-img {
+        background-size: cover;
+    }
+    .event-single-items .content.style-01 .title {
+        font-size: 35px;
+        line-height: 45px;
+    }
+    .contact-page-wrapper .contact-form .content .title-shape.style-01 {
+        left: 35%;
+        top: -47%;
+    }
+    .contact-page-wrapper.style-01 {
+        margin-bottom: 60px;
+    }
+    .facility-single-item .btn-wrapper {
+        display: none;
+    }
+    .facility-single-item.style-01 {
+        margin-top: 60px;
+    }
+    .event-single-items .post-mate.style-01 {
+        top: 5%;
+        right: 85%;
+    }
+    .party-single-item.party-member p {
+        max-width: 515px;
+    }
+    .contact-page-wrapper.style-01 {
+        top: 0px;
+        padding-left: 0px;
+    }
+    .contact-page-wrapper.style-02 {
+        top: 0px;
+        margin-bottom: 60px;
+    }
+    .contact-page-wrapper.style-03 {
+        top: 30px;
+        margin-bottom: 45px;
+    }
+    .contact-page-wrapper .contact-form .content .title-shape {
+        left: 34%;
+    }
+    .project-plaing-section .single-items-wrapper.planing-bg {
+        background-position: center;
+        margin-bottom: 60px;
+    }
+    .trafic-section-area .trafic-bg-02 {
+        display: none;
+    }
+    .trafic-section-area {
+        padding-bottom: 0px;
+    }
+    .section-title .description.style-01 {
+        margin-left: 0;
+    }
+    .footer-top.volunteer {
+        margin-top: 110px;
+    }
+    blockquote:not(.has-light-gray-color):not(.has-very-dark-gray-color):not(.is-style-large):not(.is-style-large) .author-name.style-01 {
+        right: 21%;
+        bottom: -21%;
+    }
+    .widget-area {
+        margin-top: 40px;
+    }
+    .news-single-list {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .footer-top.issue {
+        margin-top: 90px;
+    }
+    .testimonial-carousel-eight.political-member .owl-nav .owl-prev {
+        top: -14%;
+        left: 80%;
+    }
+    .testimonial-carousel-eight.political-member .owl-nav .owl-next {
+        top: -14%;
+    }
+    .testimonial-carousel-eight .owl-item.center .single-party-member-item .content .author-meta {
+        top: 63%;
+    }
+    .contact-page-wrapper .contact-form .contact-page-form .form-group.style-01 textarea {
+        width: 100%;
+    }
+    .footer-top.style-02 {
+        margin-top: 120px;
+    }
+    .administration-section .admin-shape-02 {
+        position: absolute;
+        left: 0%;
+        top: -8%;
+    }
+    .footer-top.issue.style-01 {
+        margin-top: 120px;
+    }
+    .testimonial-carousel-two .owl-item.center .volunteer-single-items {
+        min-height: 397px;
+    }
+    .volunteer-single-items:hover {
+        min-height: 397px;
+    }
+    .testimonial-section-area.testimonial-bg {
+        padding: 95px 0px 0px;
+    }
+    .counter-section-area.bg-image {
+        padding: 60px 0px 0px;
+    }
+    .people-say-section.people-say-bg {
+        padding: 80px 0px 80px 0px;
+    }
+    .widget.widget_subscribe::before {
+        content: none;
+    }
+    .widget.widget_subscribe::after {
+        content: none;
+    }
+    .our-vision-item .vision-bg {
+        min-height: 325px;
+    }
+    .meet-member-wrapper .meet-member-img {
+        margin-bottom: 50px;
+    }
+    .meet-member-wrapper .meet-member-img .member-quotes {
+        left: -30%;
+    }
+    .meet-member-section .dot-shape-02 {
+        left: 5%;
+    }
+
+    .header-area.header-bg-03 {
+        padding: 450px 0px 132px;
+    }
+
+    .strenth-section-area .senatory-logo .strenth-img {
+        min-height: 335px;
+    }
+    .strenth-section-area .senatory-logo {
+        background-size: contain;
+        background-position: 0px 50px;
+    }
+    .strenth-single-items.style-01{
+        margin-top: 28px;
+    }
+    .strenth-single-items + .strenth-single-items {
+        margin-top: 28px;
+    }
+    .strenth-single-items .description {
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .strenth-single-items .content .title {
+        font-size: 20px;
+        line-height: 25px;
+    }
+    .youth-leader-section .youth-shape {
+        min-height: 250px;
+        left: 0px;
+    }
+    .political-event-single-items .read-more-link {
+        display: none;
+    }
+    .political-event-single-items {
+        padding: 30px 30px 30px 30px;
+    }
+    .section-title .title {
+        font-size: 33px;
+        line-height: 43px;
+    }
+    .political-event-single-items .content {
+        margin-left: 35px;
+    }
+    .meet-member-wrapper {
+        padding: 35px 35px 35px 35px;
+    }
+    .navbar-area .nav-container .navbar-collapse .navbar-nav li + li {
+        margin-left: 0px;
+    }
+    .navbar-area.nav-style-02 .nav-container .navbar-collapse .navbar-nav li a {
+        color: #fff;
+    }
+    .navbar-area.nav-style-02 .nav-container .navbar-collapse .navbar-nav li.home-three-logo {
+        display: none;
+    }
+    /* Home Page Six */
+    .services-single-section.style-01 {
+        margin-top: 80px;
+    }
+    .service-single-items-wrapper {
+        border: none;
+        padding: 0;
+    }
+    .services-single-item-02,.services-single-item-02.style-01 {
+        border: 1px solid rgba(14, 17, 90, 0.15);
+        padding: 30px;
+        margin-bottom: 30px;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .header-area.header-sanatory .header-inner.political .form-group .form-btn {
+        right: 14%
+    }
+    .section-title .description {
+        max-width: 500px;
+    }
+    .testimonial-carousel-seven .owl-nav .owl-prev {
+        right: 12%;
+    }
+    .section-title .description.style-03 {
+        max-width: initial;
+    }
+    .volunteer-form .form-question .check-box-wrapper .check-box {
+        margin-right: 19px;
+    }
+    .section-title .description {
+        margin: 0;
+        max-width: inherit;
+    }
+    .more-issue-section .section-title .description.style-02 {
+        margin: 0;
+    }
+    .blog-pagination {
+        padding-left: 40px;
+    }
+    .blog-pagination.style-01 {
+        padding-left: 0px;
+    }
+    .poll-wrapper {
+        right: -80%;
+    }
+    .testimonial-carousel-two .owl-item.center .volunteer-single-items {
+        min-height: 458px;
+    }
+    .volunteer-single-items:hover {
+        min-height: 458px;
+    }
+    .single-counterup-01 {
+        margin-bottom: 0px;
+    }
+    .header-area .lottie-shape {
+        left: 4%;
+        max-width: 190px;
+    }
+    .btn-wrapper.poll-btn {
+        right: -7.5%;
+    }
+    .header-slider-one .owl-dots .owl-dot {
+        display: none;
+    }
+    .header-area.header-bg-03 {
+        padding: 220px 0px 150px;
+    }
+    .header-area.header-sanatory .senatory-bg-img-02 {
+        display: none;
+    }
+    .header-area .subtitle {
+        line-height: 40px;
+        font-size: 20px;
+    }
+    .header-area.header-sanatory .header-inner .title {
+        font-size: 45px;
+        line-height: 65px;
+    }
+    .header-area.header-bg-03::before {
+        content: none;
+    }
+    .header-area .dot-09, .header-area .dot-08, .header-area .dot-05, .header-area .dot-04, .header-area .dot-02, .header-area .dot-06, .header-area .dot-07 {
+        display: none;
+    }
+    .header-area .senatory-banner {
+        opacity: 0.4;
+    }
+    .meet-member-section .dot-shape-02 {
+        display: none;
+    }
+    .inner-single-items .content h6 {
+        font-size: 18px;
+        line-height: 28px;
+    }
+    /* Home Page Five */
+    .header-area.header-sanatory.header-bg-04 {
+        padding: 135px 0px 30px;
+    }
+    .header-area.header-sanatory .header-inner-02 .subtitle {
+        font-size: 17px;
+        line-height: 30px;
+        margin-bottom: 0px;
+    }
+    .header-area.header-sanatory .header-inner-02 .title {
+        font-size: 48px;
+        line-height: 60px;
+    }
+    .btn-wrapper .boxed-btn.read-btn {
+        margin-top: 25px;
+    }
+    .header-area .home-five-banner .thumbnail img {
+        width: 480px;
+        margin-top: 35px;
+    }
+    .navbar-area.nav-style-03 {
+        display: none;
+    }
+    .why-choose-us-section .choose-bg-03 {
+        display: none;
+    }
+    .our-journey-section .journey-bg .content.style-01 {
+        left: 50%;
+        top: 55%;
+    }
+    .our-journey-section .journey-bg .content.style-01 .title {
+        font-size: 33px;
+        line-height: 48px;
+    }
+    .our-journey-section .journey-bg .content.style-01 p {
+        font-size: 16px;
+        line-height: 28px;
+    }
+    /* Home Page Six */
+    .header-area.header-sanatory.home-six {
+        padding: 200px 0 120px;
+    }
+    .header-area .header-bg-06 {
+        display: none;
+    }
+    .header-area .banner-six-shape-02 {
+        display: none;
+    }
+    .header-area.header-sanatory .header-inner-03 .title img {
+        right: 137px;
+        max-width: 160px;
+        left: inherit;
+    }
+    .header-area .header-bg-05 {
+        background-size: cover;
+        width: 100%;
+    }
+    .services-single-section.style-01 {
+        margin-top: 80px;
+    }
+    .service-single-items-wrapper {
+        border: none;
+        padding: 0;
+    }
+    .services-single-item-02,.services-single-item-02.style-01 {
+        border: 1px solid rgba(14, 17, 90, 0.15);
+        padding: 30px;
+        margin-bottom: 30px;
+    }
+    .our-party-section-area.home-six {
+        margin-top: 50px;
+    }
+    .our-party-section-area.home-six .candidate-img {
+        display: none;
+    }
+    .our-mission-section {
+        margin-top: 70px;
+        padding-bottom: 0px;
+    }
+    .our-mission-section::after  {
+        display: none;
+    }
+    .donation-section-area.home-six {
+        margin-top: 50px;
+    }
+    .call-to-action-section {
+        padding: 80px 0px;
+        margin-top: 90px;
+    }
+    .campaign-section-area.home-six {
+        margin-top: 80px;
+    }
+    .campaign-section-area .campaign-single-item.home-six .campaign-bg {
+        margin-bottom: 30px;
+    }
+    .party-member-section-area.home-six {
+        margin-top: 50px;
+    }
+    .testimonial-section-area.home-six {
+        margin-top: 80px;
+        padding: 90px 0px !important;
+    }
+    .section-title .title.style-01 {
+        margin-bottom: 50px;
+    }
+    .widget.widget_subscribe .header-content.style-01 {
+        display: block;
+    }
+    .widget.footer-widget.widget_subscribe .header-content.style-01 .title.style-01 {
+        text-align: center;
+        max-width: inherit;
+        margin-right: 0;
+        padding-top: 20px;
+        margin-bottom: 15px;
+    }
+    .widget.widget_subscribe .footer-form {
+        margin-right: 0px;
+        margin-left: 0px;
+    }
+    .widget.widget_subscribe .footer-form .form-group {
+        margin-bottom: 20px;
+    }
+    /* About Us Two */
+    .administration-single-items.about-two .content .title br {
+        display: none;
+    }
+    .administration-section .administration-single-items.about-two {
+        margin-top: 0px;
+    }
+    .administration-section.home-six {
+        margin-top: 80px;
+    }
+    .administration-section .administration-single-items.about-two .list-items ul li {
+        display: inline-block;
+    }
+    .administration-single-items.about-two .administrative-bg {
+        margin-top: 30px;
+    }
+    .administration-single-items.about-two .btn-wrapper.administration {
+        left: 54%;
+    }
+    /* Service Two */
+    .services-single-section.home-six {
+        margin-top: 70px;
+        margin-bottom: 0;
+    }
+    .why-choose-us-section {
+        margin-top: 50px;
+    }
+    .counter-section-area.style-01 {
+        margin-top: 80px;
+    }
+    .footer-top.issue.style-01 {
+        margin-top: 80px;
+    }
+    /* Event Three */
+    .issues-around-us-section.home-six {
+        margin-top: 80px;
+    }
+    /* Event Four */
+    .event-single-items.style-02 .event-img {
+        min-height: 250px;
+    }
+    .event-single-items .content .title {
+        font-size: 22px;
+        line-height: 32px;
+    }
+    /* Event Five */
+    .issues-around-us-section .blog-pagination.event-five {
+        text-align: left;
+        padding-left: 0;
+    }
+    /* Event Single Two */
+    .icon-box-wrapper {
+        justify-content: left;
+    }
+    .icon-box-wrapper .icon-box-item .icon {
+        width: 45px;
+        height: 45px;
+        line-height: 40px;
+    }
+    .icon-box-wrapper .icon-box-item .icon img {
+        width: 20px;
+    }
+
+    .icon-box-wrapper .icon-box-item + .icon-box-item {
+        padding-left: 25px;
+        margin-left: 25px;
+    }
+    .event-single-items .bg-wrapper .event-bg.style-01 {
+        min-height: 390px;
+    }
+    .event-single-items .content.style-02 .title {
+        font-size: 30px;
+        line-height: 35px;
+    }
+    .event-content-section .event-single-shape.style-01 {
+        display: none;
+    }
+    .counter-single-item.home-six {
+        padding: 10px 30px 5px 30px;
+        align-items: center;
+    }
+    .counter-single-item.home-six .btn-wrapper {
+        margin-left: 45px;
+        margin-top: 0px;
+    }
+    /* Donation Two */
+    .issues-around-us-section.style-01 {
+        margin-top: 80px;
+    }
+    .issues-single-items-two .content .title {
+        font-size: 20px;
+    }
+    .issues-around-us-section.style-01 .blog-pagination {
+        margin-top: 30px;
+    }
+    /* Donation Sinlge Two */
+    .donation-single-items.home-six .content .title {
+        font-size: 29px;
+    }
+    .donation-single-items .bg-wrapper.home-six .donation-bg {
+        border-radius: 0;
+        min-height: 440px;
+    }
+    /* Blog Four */
+    .news-single-items-two.blog-04 .thumbnail img {
+        height: 250px;
+        object-fit: cover;
+    }
+    /* Team Two */
+    .team-section-area.style-01 .blog-pagination {
+        margin-top: 0px;
+    }
+    .team-section-area.style-01 {
+        margin-top: 80px;
+    }
+    /* Issues Sinlge Two */
+    .issues-details-section .bg-wrapper .issue-details-bg-02 {
+        min-height: 438px;
+    }
+    /* Help And Faq */
+    .help-and-faq-section {
+        margin-top: 70px;
+    }
+    /* Contact Us Two */
+    .help-and-faq-section.style-01 {
+        margin: 80px 0px 80px;
+    }
+    /* Comming Soon Page */
+    .comming-soon-section .bg-comming {
+        display: none;
+    }
+    .comming-soon-item {
+        margin-top: 80px;
+        padding-left: 80px;
+        padding-right: 80px;
+    }
+    /* Department two */
+    .footer-top.style-02 {
+        margin-top: 50px;
+    }
+    .services-single-item-02.departmental {
+        padding: 20px;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .nav-container {
+        max-width: 540px;
+        width: 100%;
+    }
+    .header-area .lottie-shape {
+        left: 15%;
+        max-width: 165px;
+    }
+    .header-area.header-sanatory {
+        padding: 130px 0px 80px;
+    }
+    .header-area.header-sanatory .header-inner .title {
+        font-size: 55px;
+        line-height: 65px;
+    }
+    .our-party-section-area .party-shape,
+    .our-party-section-area .party-shape-01,
+    .our-party-section-area .party-shape-02,
+    .our-party-section-area .party-shape-03 {
+        display: none;
+    }
+    .party-single-item .content .subtitle p {
+        margin-bottom: 10px;
+    }
+    .party-single-item .content .title {
+        font-size: 36px;
+        line-height: 46px;
+        margin-bottom: 20px;
+    }
+    .party-single-item .content .title.style-01,
+    .party-single-item.style-02 .content .title {
+        font-size: 36px;
+        line-height: 48px;
+    }
+    .party-single-item .content .description {
+        margin-bottom: 20px;
+    }
+    .vote-section-area .party-shape,
+    .vote-section-area .party-shape-01,
+    .vote-section-area .party-shape-02,
+    .vote-section-area .party-shape-03 {
+        display: none;
+    }
+    .section-title .subtitle {
+        margin-bottom: 10px;
+    }
+    .section-title .title {
+        font-size: 40px;
+        line-height: 50px;
+        margin-bottom: 20px;
+    }
+    .section-title .description {
+        font-size: 18px;
+        line-height: 28px;
+    }
+    .counter-single-item .counter-item {
+        margin-bottom: 30px;
+    }
+    .campaign-single-items-02 .content .title-wrapper .title h5 {
+        font-size: 20px;
+        line-height: 28px;
+    }
+    .campaign-single-items-02 .content p {
+        line-height: 26px;
+    }
+    .single-counterup-01 {
+        border: none;
+    }
+    .single-counterup-01.style-01 {
+        margin-bottom: 0px;
+    }
+    .single-counterup-01.style-04 {
+        margin-bottom: 40px;
+    }
+    .party-single-item.style-02 .content .description {
+        font-size: 18px;
+        line-height: 28px;
+    }
+    .header-slider-two .owl-nav {
+        display: none;
+    }
+    .header-area.header-sanatory .header-inner.political .form-group .form-control {
+        width: 475px;
+    }
+    .header-area.header-sanatory .header-inner.political .form-group .form-btn {
+        right: 16%;
+    }
+    .vision-single-item-wrapper .our-vision-single-item.style-01 {
+        margin-top: 0px;
+    }
+    .vision-single-item-wrapper .our-vision-single-item.style-02 {
+        margin-top: 0px;
+    }
+    .contact-page-wrapper .contact-form .contact-page-form .form-group textarea {
+        width: 450px;
+    }
+    .single-party-member-item:hover .content .author-meta {
+        top: 75%;
+    }
+    .testimonial-carousel.political-member .owl-nav {
+        display: none;
+    }
+    .counter-section-area .counter-shape-01.style-01 {
+        left: 10%;
+    }
+    .counter-section-area .counter-shape-03.style-01 {
+        right: 10%;
+    }
+    .testimonial-section-area.people-say::after {
+        width: 130%;
+    }
+    .widget.footer-widget.widget_subscribe .header-content.style-01 {
+        display: block;
+    }
+    .widget.footer-widget.widget_subscribe .header-content .title.style-01 {
+        text-align: center;
+        margin: 0 auto;
+        margin-bottom: 30px;
+    }
+    .why-choose-us-section .single-items-wrapper {
+        margin-right: 0px;
+    }
+    .administration-section .administration-single-items .content .title {
+        font-size: 35px;
+        line-height: 45px;
+    }
+    .accoridions .section-title .title {
+        font-size: 36px;
+        line-height: 46px;
+    }
+    .princilple-single-items .content p {
+        max-width: inherit;
+    }
+    .about-us-section-area .about-inner.issue-single .title {
+        font-size: 43px;
+        line-height: 67px;
+    }
+    .issues-details-section .taking-action-issue .action-single-items .action-shape {
+        background-size: cover;
+        padding: 35px;
+        left: -8px;
+    }
+    .issues-details-section .taking-action-issue .action-single-items .action-shape p {
+        font-size: 22px;
+    }
+    .issues-details-section .taking-action-issue .action-single-items {
+        padding: 26px 30px 26px 70px;
+    }
+    .issues-details-section .taking-action-issue::after {
+        right: -12px;
+        height: 70%;
+        top: 258px
+    }
+    .issues-details-section .taking-action-issue .action-single-items::before {
+        top: 120px;
+    }
+    .issues-details-section .taking-action-issue .action-single-items::after {
+        top: 125px;
+    }
+    .testimonial-carousel-six .owl-nav .owl-prev {
+        width: 50px;
+        height: 50px;
+        line-height: 50px;
+        right: 15%;
+        top: -70px;
+    }
+    .testimonial-carousel-six .owl-nav .owl-next {
+        width: 50px;
+        height: 50px;
+        line-height: 50px;
+        top: -70px;
+    }
+    .blog-pagination ul li a {
+        width: 40px;
+        height: 40px;
+        line-height: 28px;
+        font-size: 18px;
+    }
+    .team-wrapper {
+        display: flex;
+        justify-content: center;
+    }
+    .team.style-01 .volunteer-single-items-02 {
+        width: initial;
+        margin: auto;
+        margin-bottom: 30px;
+    }
+    .testimonial-carousel-seven .owl-nav .owl-prev {
+        right: 15%;
+    }
+    .see-our-video-section .video-bg {
+        min-height: 475px;
+    }
+    .volunteer-form .form-question .check-box-wrapper .check-box .container-box {
+        margin-bottom: 20px;
+    }
+    .volunteer-form .form-question {
+        margin-top: 18px;
+        margin-bottom: 20px;
+    }
+    .about-us-section-area .about-inner .title {
+        font-size: 52px;
+        line-height: 72px;
+    }
+    .our-journey-section .journey-bg {
+        min-height: 380px;
+    }
+    .our-journey-section .journey-bg .content {
+        padding: 20px;
+    }
+    .our-journey-section .journey-bg .content .title {
+        font-size: 32px;
+        line-height: 42px;
+    }
+    .our-journey-section .journey-bg .content .title span {
+        font-size: 28px;
+        line-height: 38px;
+    }
+    .our-journey-section .journey-bg .content p {
+        font-size: 16px;
+        line-height: 26px;
+    }
+    .history-slider .slick-slider-controls .slick-prev {
+        left: 35px;
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        font-size: 20px;
+    }
+    .history-slider .slick-slider-controls .slick-next {
+        right: 35px;
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        font-size: 20px;
+    }
+    .history-slider .history-number .history-year h3 {
+        font-size: 18px;
+        line-height: 28px;
+        margin-left: 10px;
+    }
+    .history-single-item .history-year {
+        margin-left: 20px;
+    }
+    .history-single-item:nth-child(2n) .history-year {
+        margin-right: 20px;
+    }
+    .history-single-item .history-single-item-content .content .title {
+        font-size: 22px;
+    }
+    .history-single-item .history-year .year {
+        font-size: 32px;
+        line-height: 42px;
+    }
+    .history-single-item .history-year .month {
+        margin-top: 8px;
+    }
+    .donation-single-items .bg-wrapper .donation-bg {
+        min-height: 515px;
+    }
+    .about-us-section-area .about-inner.donation-single .title {
+        font-size: 35px;
+        line-height: 45px;
+    }
+    .donation-single-items .content .title {
+        font-size: 32px;
+        line-height: 42px;
+    }
+    blockquote:not(.has-light-gray-color):not(.has-very-dark-gray-color):not(.is-style-large):not(.is-style-large) {
+        padding: 25px;
+    }
+    blockquote:not(.has-light-gray-color):not(.has-very-dark-gray-color):not(.is-style-large):not(.is-style-large)::before {
+        left: 25px;
+        width: 65px;
+        font-size: 35px;
+    }
+    blockquote:not(.has-light-gray-color):not(.has-very-dark-gray-color):not(.is-style-large):not(.is-style-large)::after {
+        right: 25px;
+        width: 65px;
+        font-size: 35px;
+    }
+    blockquote:not(.has-light-gray-color):not(.has-very-dark-gray-color):not(.is-style-large):not(.is-style-large) .author-name {
+        right: 17%;
+        bottom: -13%;
+    }
+    blockquote:not(.has-light-gray-color):not(.has-very-dark-gray-color):not(.is-style-large):not(.is-style-large) p {
+        font-size: 25px;
+        line-height: 35px;
+    }
+    .donation-content-section .donate-programm .content .subtitle {
+        font-size: 28px;
+        line-height: 38px;
+    }
+    .donation-content-section .donate-programm .content .description {
+        font-size: 16px;
+        line-height: 26px;
+    }
+    .donation-content-section .donate-programm .content .notice p {
+        flex: 1;
+        font-size: 16px;
+        line-height: 26px;
+    }
+    .donation-content-section .donate-programm .content .btn-wrapper .price-btn {
+        line-height: 65px;
+    }
+    .counter-single-item.style-02 {
+        bottom: -25px;
+        left: 12px;
+    }
+    .counter-single-item .counter-item span {
+        line-height: 26px;
+    }
+    .counter-single-item .counter-item {
+        margin-bottom: 30px;
+    }
+    .counter-single-item .counter-item {
+        width: 100px;
+        height: 100px;
+    }
+    .counter-single-item {
+        left: 30px;
+    }
+    .event-single-items .post-mate.style-01 {
+        top: 5%;
+        right: 80%;
+    }
+    .event-single-items .content.style-01 .title {
+        font-size: 32px;
+        line-height: 42px;
+    }
+    .contact-page-wrapper .contact-form .content .title-shape.style-01 {
+        left: 30%;
+        top: -47%;
+    }
+    .contact-page-form-section .contact-item-wrapper .contact-single-item .content .title {
+        line-height: 50px;
+    }
+    .contact-page-wrapper .contact-form .contact-page-form .form-group textarea {
+        width: 310px;
+    }
+    .contact-page-wrapper .contact-form .content .title-shape {
+        left: 22%;
+    }
+    .project-plaing-section .single-items-wrapper .planing-single-item.style-01 {
+        margin-left: 25px;
+    }
+    .princilple-single-items.style-01 {
+        margin-bottom: 60px;
+    }
+    .single-testimonial-item:hover {
+        box-shadow: none;
+    }
+    blockquote:not(.has-light-gray-color):not(.has-very-dark-gray-color):not(.is-style-large):not(.is-style-large) .author-name.style-01 {
+        right: 17%;
+        bottom: -27%;
+    }
+    .header-slider-one .owl-dots .owl-dot {
+        display: none;
+    }
+    .party-single-item.style-02 .content .quotes i {
+        display: none;
+    }
+    .contact-page-wrapper .contact-form .contact-page-form .form-group textarea {
+        width: 450px;
+    }
+    .contact-page-wrapper .contact-form .content .title-shape {
+        left: 27%;
+    }
+    .testimonial-carousel-eight.political-member .owl-nav {
+        display: none;
+    }
+    .testimonial-carousel-eight .owl-item.center .single-party-member-item .content .author-meta {
+        top: 74%;
+    }
+    .counter-single-item.style-01 {
+        left: 85px;
+    }
+    .campaign-section-area .campaign-single-item .campaign-bg-02 {
+        min-height: 530px;
+    }
+    .administration-section .admin-shape-02 {
+        display: none;
+    }
+    .contact-page-wrapper .contact-form .contact-page-form .form-group.style-01 textarea {
+        width: 100%;
+    }
+    .team-section-area .team-wrapper .team {
+        width: initial;
+    }
+    .testimonial-carousel-two .owl-item.center .volunteer-single-items {
+        min-height: 457px;
+    }
+    .volunteer-single-items:hover {
+        min-height: 457px;
+    }
+    .our-party-section-area.party-vision {
+        margin-top: 90px;
+    }
+    .header-area.header-bg-03 {
+        padding: 295px 0px 70px;
+    }
+    .header-area.header-sanatory .senatory-bg-img-02 {
+        left: 8%;
+        height: 630px;
+    }
+    .bottom-single-items .content .title {
+        font-size: 22px;
+    }
+    .meet-member-wrapper {
+        border: none;
+        padding: 0px;
+    }
+    .meet-single-items {
+        padding-left: 0px;
+    }
+    .meet-member-wrapper .meet-member-img .member-quotes {
+        left: -37%;
+    }
+    .strenth-section-area .senatory-logo {
+        background-size: contain;
+        background-position: 0px 85px;
+    }
+    .strenth-section-area .senatory-logo .strenth-img {
+        min-height: 490px;
+    }
+    .strenth-single-items.style-01 {
+        margin-top: 50px;
+    }
+    .strenth-single-items + .strenth-single-items {
+        margin-top: 30px;
+    }
+    .strenth-single-items .content .title {
+        font-size: 24px;
+        line-height: 28px;
+    }
+    .strenth-single-items .description {
+        font-size: 16px;
+        line-height: 28px;
+    }
+    .political-event-single-items {
+        display: block;
+    }
+    .political-event-single-items .thumb img {
+        width: 100%;
+    }
+    .political-event-single-items .content {
+        margin-left: 0px;
+        margin-top: 30px;
+    }
+    .testimonial-carousel-eight .owl-item.center .single-party-member-item-02 .content {
+        top: 55%;
+        left: 22%;
+    }
+    /* Home Page Six */
+    .header-area.header-sanatory .header-inner-03 .title img {
+        right: inherit;
+        max-width: 160px;
+        left: 0;
+    }
+    .party-single-item.home-six {
+        padding-left: 0px;
+    }
+    .call-to-action-section .cta-items .title {
+        font-size: 36px;
+    }
+    .campaign-section-area .campaign-single-item.home-six .campaign-bg .content-wrap {
+        left: 30px;
+        bottom: 0px;
+    }
+    .campaign-section-area .campaign-single-item.home-six .campaign-bg .content-wrap .content {
+        margin-bottom: 30px;
+    }
+    .counter-single-item.style-04 .counter-item span {
+        padding-bottom: 15px;
+    }
+    .campaign-section-area .campaign-single-item.home-six .campaign-bg {
+        min-height: 520px;
+    }
+    .news-section-start.home-six {
+        margin-top: 70px;
+    }
+    .widget.widget_subscribe.political.style-01 {
+        padding: 0px 30px 30px;
+    }
+    .about_us_widget p {
+        margin-bottom: 20px;
+    }
+    /* About Us Two */
+    .administration-single-items.about-two .administrative-bg {
+        min-height: 510px;
+    }
+    .administration-single-items.about-two .btn-wrapper.administration {
+        padding: 50px 55px 25px 50px;
+    }
+    /* Service Two */
+    .service-single-items-wrapper .separator {
+        margin-top: 0px;
+    }
+    .services-single-section.home-six .section-title .title br {
+        display: none;
+    }
+    /* Event Five */
+    .event-single-items-02 .content .title {
+        font-size: 21px;
+        line-height: 31px;
+    }
+    /* Event Single Two */
+    .event-single-items .bg-wrapper .event-bg.style-01 {
+        min-height: 300px;
+    }
+    .icon-box-wrapper .icon-box-item {
+        display: block;
+        text-align: center;
+        margin-bottom: 0;
+    }
+    .icon-box-wrapper .icon-box-item .icon {
+        margin: auto;
+    }
+    .icon-box-wrapper .icon-box-item .event-meta {
+        margin-left: 0px;
+        margin-top: 15px;
+    }
+    .icon-box-wrapper .icon-box-item + .icon-box-item {
+        padding-left: 0;
+        margin-left: 30px;
+    }
+    .icon-box-wrapper {
+        justify-content: center;
+    }
+    .icon-box-wrapper .icon-box-item + .icon-box-item::after {
+        display: none;
+    }
+    .event-single-items .content.style-02 {
+        margin-top: 15px;
+    }
+    .event-single-items .content.style-02 .title {
+        font-size: 28px;
+        line-height: 34px;
+        margin-bottom: 15px;
+    }
+    .counter-single-item.home-six {
+        padding: 25px 30px 5px 30px;
+    }
+    .counter-single-item.home-six .counter-item {
+        margin-bottom: 0;
+    }
+    .counter-single-item.home-six .btn-wrapper {
+        display: none;
+    }
+    .event-single-items.home-six blockquote:not(.has-light-gray-color):not(.has-very-dark-gray-color):not(.is-style-large):not(.is-style-large) .author-name.style-02 {
+        right: 17%;
+        bottom: -15%;
+    }
+    .organizar-wrap .organizar-item .thumbnail img {
+        width: 100%;
+    }
+    /* Donation Two */
+    .issues-single-items-two .thumbnail img {
+        width: 100%;
+    }
+    /* Donation Singl Two */
+    .donation-single-items .bg-wrapper.home-six .donation-bg {
+        min-height: 325px;
+    }
+    .donation-single-items.home-six .content .title {
+        font-size: 28px;
+    }
+    .donation-single-items.home-six .thumbnail .grid-img {
+        width: 100%;
+        margin-bottom: 30px;
+    }
+    .donation-single-items.home-six .thumbnail.style-01 .grid-img {
+        margin-bottom: 0px;
+    }
+    /* Blog Two */
+    .news-single-items-two .thumbnail img {
+        width: 100%;    
+    }
+    /* Team Two */
+    .team-single-items .thumbnail img {
+        width: 100%;
+    }
+    /* Issues Single Two */
+    .issues-details-section .bg-wrapper .issue-details-bg-02 {
+        min-height: 327px;
+    }
+    .issues-details-section .content .title {
+        margin-top: 10px;
+        margin-bottom: 15px;
+    }
+    .issues-details-section.issue-detls-two .thumbnail .grid-img {
+        width: 100%;
+        margin-bottom: 30px;
+    }
+    .issues-details-section.issue-detls-two .thumbnail.style-01 .grid-img {
+        margin-bottom: 0;
+    }
+    .issues-details-section .taking-action-issue.home-six .action-single-items {
+        margin-left: 0px;
+    }
+    /* Help And Faq */
+    .accordion-wrapper-three .card .card-header a {
+        font-size: 17px;
+        padding: 15px 15px;
+    }
+    .accordion-wrapper-three .card .card-header a::before {
+        right: 40px;
+    }
+    .accordion-wrapper-three .card .card-header a::after {
+        right: 12px;
+    }
+    /* Contact Us two */
+    .contact-page-wrapper.home-six .contact-form .contact-page-form .form-group .text-area {
+        width: 100%;
+    }
+    .contact_map {
+        min-height: 300px;
+    }
+    /* Comming Soon */
+    .comming-soon-item {
+        margin-top: 120px;
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+    .comming-soon-item .element-01,.comming-soon-item .element-02,.comming-soon-item .element-03,.comming-soon-item .element-04,.comming-soon-item .element-05 {
+        display: none;
+    }
+    /* Department Single */
+    .video-play.home-six {
+        left: 22%;
+    }
+}
+
+@media only screen and (max-width: 575px) {
+    /* Home Page Six */
+    .header-area.header-sanatory .header-inner-03 .title {
+        font-size: 40px;
+    }
+    .header-area.header-sanatory .header-inner-03 .title img {
+        max-width: 135px;
+    }
+    .counter-single-item.style-03 .counter-item {
+        margin-right: 5px;
+        padding-right: 25px;
+    }
+    .counter-single-item.style-03 {
+        padding: 15px 25px 15px 25px;
+    }
+    .counter-single-item.style-03 .counter-item::before {
+        top: -15px;
+    }
+    .header-area.header-sanatory.home-six {
+        padding: 170px 0 100px;
+    }
+    .service-single-items-wrapper {
+        padding: 0px 15px;
+    }
+    .our-party-section-area.home-six {
+        padding: 60px 0px;
+    }
+    .party-single-item.home-six .content .vision-quotes {
+        padding: 20px 20px;
+    }
+    .party-single-item.home-six .content .vision-quotes .title {
+        font-size: 16px;
+        line-height: 26px;
+    }
+    .call-to-action-section .cta-items .title {
+        font-size: 28px;
+    }
+    .call-to-action-section {
+        margin-top: 60px;
+    }
+    .video-play.style-06 i {
+        height: 90px;
+        width: 90px;
+        line-height: 90px;
+        font-size: 26px;
+    }
+    .video-play.style-06::after {
+        left: -11%;
+        top: -260%;
+        width: 110px;
+        height: 110px;
+        line-height: 110px;
+    }
+    .testimonial-single-item {
+        padding: 25px;
+    }
+    .testimonial-single-item .icon {
+        margin-bottom: 15px;
+    }
+    .testimonial-single-item .content .author-meta {
+        margin-top: 20px;
+    }
+    .testimonial-single-item .content p {
+        font-size: 15px;
+    }
+    .testimonial-single-item .content .author-meta .description .name {
+        font-size: 22px;
+        margin-bottom: 0;
+    }
+    .section-title .title.style-01 {
+        margin-bottom: 30px;
+    }
+    .footer-top .footer-top-border .footer-content.style-01 {
+        display: none;
+    }
+    .footer-top .footer-top-border .footer-content .designation .event {
+        font-size: 13px;
+        margin-right: 15px;
+    }
+    .counter-single-item.style-04 .counter-item {
+        margin-right: 5px;
+        padding-right: 15px;
+    }
+    .counter-single-item.style-04 .counter-item span {
+        font-size: 36px;
+        line-height: 1;
+        padding: 0;
+    }
+    .counter-single-item.style-04 .counter-item::before {
+        top: -12px;
+    }
+    .campaign-section-area .campaign-single-item.home-six .campaign-bg {
+        min-height: 440px;
+    }
+    .campaign-section-area .campaign-single-item.home-six .campaign-bg .content-wrap {
+        left: 20px;
+    }
+    /* About Us Two */
+    .administration-section.home-six {
+        margin-top: 70px;
+    }
+    .administration-single-items .icon-box-wrap {
+        display: block;
+    }
+    .administration-single-items .icon-box-wrap .icon-box + .icon-box {
+        margin-left: 0px;
+        margin-top: 30px;
+    }
+    .administration-single-items.about-two .video-popup i {
+        width: 60px;
+        height: 60px;
+        line-height: 60px;
+        font-size: 19px;
+    }
+    .administration-single-items.about-two .btn-wrapper.administration {
+        left: 53%;
+        top: 80%;
+        padding: 40px 40px 40px 0px;
+    }
+    .video-popup::before {
+        left: 19%;
+        top: -216%;
+        width: 100px;
+        height: 100px;
+        line-height: 100px;
+    }
+    .video-popup::after {
+        left: 25%;
+        top: -175%;
+        width: 85px;
+        height: 85px;
+        line-height: 85px;
+    }
+    .administration-single-items.about-two .btn-wrapper p {
+        display: none;
+    }
+    /* Service Two */
+    .services-single-item-02, .services-single-item-02.style-01 {
+        padding: 25px;
+    }
+    .service-single-items-wrapper.style-01 {
+        padding: 0px;
+    }
+    /* Event Two */
+    .issues-around-us-section.home-six .event-single-items .content.home-six .subtitle {
+        display: flex;
+    }
+    .blog-pagination.style-01 ul li a {
+        width: 40px;
+        height: 40px;
+        line-height: 24px;
+    }
+    /* Event Five */
+    .event-single-items-02 .content .title {
+        font-size: 22px;
+        line-height: 32px;
+    }
+    .event-single-items-02 {
+        display: block;
+    }
+    .event-single-items-02 .content {
+        margin-left: 0;
+        margin-top: 30px;
+    }
+    .event-single-items-02 .thumbnail img {
+        width: 100%;
+    }
+    /* Event Single two */
+    .icon-box-wrapper {
+        display: none;
+    }
+    .event-single-items .bg-wrapper .event-bg.style-01 {
+        min-height: 215px;
+    }
+    .event-single-items .content.style-02 .title {
+        font-size: 25px;
+    }
+    .counter-single-item.home-six {
+        padding: 25px 15px 5px 15px;
+        display: inline-block;
+    }
+    .counter-single-item.home-six .counter-item {
+        margin-right: 6px;
+        padding-right: 18px;
+    }
+    .counter-single-item.home-six .counter-item span {
+        font-size: 30px;
+    }
+    .counter-single-item.home-six .counter-item::before {
+        top: -25px;
+        font-size: 50px;
+    }
+    .event-single-items .content.style-03 .title::after {
+        height: 13%;
+    }
+    .event-single-items.home-six blockquote:not(.has-light-gray-color):not(.has-very-dark-gray-color):not(.is-style-large):not(.is-style-large) .author-name.style-02 {
+        right: 26%;
+        bottom: -14%;
+    }
+    .event-single-items.home-six blockquote:not(.has-light-gray-color):not(.has-very-dark-gray-color):not(.is-style-large):not(.is-style-large) p.style-03 {
+        font-size: 20px;
+        line-height: 1.3;
+    }
+    .blog-pagination {
+        margin-top: 35px;
+    }
+    .widget {
+        padding: 25px;
+    }
+    .footer-top.volunteer {
+        margin-top: 80px;
+    }
+    /* Donation Two */
+    .about-us-section-area.about-bg {
+        padding: 60px 0px 75px 0px;
+    }
+    /* Donation Single Two */
+    .donation-single-items .bg-wrapper.home-six .donation-bg {
+        min-height: 250px;
+    }
+    .donation-single-items.home-six .content .title {
+        font-size: 24px;
+    }
+    .donation-single-items.home-six blockquote:not(.has-light-gray-color):not(.has-very-dark-gray-color):not(.is-style-large):not(.is-style-large) p.style-04 {
+        font-size: 20px;
+        line-height: 1.3;
+    }
+    .donation-single-items.home-six blockquote:not(.has-light-gray-color):not(.has-very-dark-gray-color):not(.is-style-large):not(.is-style-large) .author-name.style-02 {
+        right: 26%;
+        bottom: -15%;
+    }
+    .donation-single-items.home-six .social-area-wrap .btn-wrapper {
+        display: none;
+    }
+    .issues-around-us-section.style-01 .blog-pagination {
+        margin-top: 0px;
+    }
+    /* issue details two */
+    .issues-details-section .taking-action-issue.home-six .action-single-items {
+        padding: 20px 20px 20px 20px;
+    }
+    .issues-details-section .bg-wrapper .issue-details-bg-02 {
+        min-height: 225px;
+    }
+    /* Help And Faq */
+    .help-single-item .content .title {
+        font-size: 30px;
+    }
+    .accordion-wrapper-three .card .card-header a {
+        padding-right: 45px;
+    }
+    .icon-box-item-02 {
+        padding: 15px;;
+    }
+    .accordion-wrapper-three .card .card-header a:after {
+            top: 30px;
+    }
+    /* Comming Soon Page */
+    .comming-soon-item {
+        margin-top: 80px;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .comming-soon-item .logo {
+        margin-bottom: 30px;
+    }
+    .comming-soon-item .content .title {
+        margin-bottom: 20px;
+    }
+    .comming-soon-item .subscribe-form .form-group .btn-wrapper {
+        position: inherit;
+        margin-top: 15px;
+        text-align: center;
+    }
+}
+
+@media only screen and (max-width: 599px) {
+    .header-area.header-sanatory .header-shape {
+        display: none;
+    }
+    .header-area.header-sanatory .header-inner .title {
+        font-size: 48px;
+        line-height: 58px;
+    }
+    .header-area.header-sanatory {
+        padding: 110px 0px 80px;
+    }
+    .testimonial-carousel-four .owl-dots {
+        display: none!important;
+    }
+    .party-single-item .content .subtitle p {
+        font-size: 18px;
+        line-height: 28px;
+    }
+    .party-single-item .content .title {
+        font-size: 32px;
+        line-height: 42px;
+    }
+    .party-single-item .content .title.style-01 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .vote-section-area .video-section span {
+        font-size: 38px;
+        line-height: 48px;
+    }
+    .btn-wrapper .boxed-btn.donate-btn {
+        margin-top: 30px;
+    }
+    .section-title .subtitle p {
+        font-size: 18px;
+        line-height: 28px;
+    }
+    .section-title .title {
+        font-size: 36px;
+        line-height: 46px;
+    }
+    .section-title .description {
+        font-size: 16px;
+        line-height: 26px;
+        max-width: inherit;
+    }
+    .campaign-single-items-02 {
+        display: block;
+    }
+    .campaign-single-items-02 .icon {
+        margin-bottom: 30px;
+    }
+    .single-testimonial-item {
+        margin: 0px 15px;
+    }
+    .testimonial-carousel .owl-nav .owl-prev {
+        position: absolute;
+        left: -15px;
+        width: 45px;
+        height: 45px;
+        line-height: 45px;
+        font-size: 24px;
+    }
+    .testimonial-carousel .owl-nav .owl-next {
+        position: absolute;
+        right: -15px;
+        width: 45px;
+        height: 45px;
+        line-height: 45px;
+        font-size: 24px;
+    }
+    .volunteer-single-items {
+        margin: 0px 15px;
+    }
+    .counter-section-area .counter-shape {
+        left: 23%;
+    }
+    .counter-section-area .counter-shape-02 {
+        right: 22%;
+    }
+    .party-single-item.style-02 .content .title {
+        font-size: 32px;
+        line-height: 42px;
+    }
+    .party-single-item.style-02 .content .description {
+        font-size: 16px;
+        line-height: 26px;
+    }
+    .widget.footer-widget.style-01 {
+        margin-top: 0;
+        padding-right: 0;
+    }
+    .header-area.header-sanatory .header-inner.political .title {
+        font-size: 36px;
+    }
+    .header-area.header-sanatory .header-inner.political .form-group .form-control {
+        width: 400px;
+    }
+    .header-area.header-sanatory .header-inner.political .form-group .form-btn {
+        right: 5%;
+    }
+    .contact-page-wrapper .contact-form .contact-page-form .form-group textarea {
+        width: 360px;
+    }
+    .contact-page-wrapper .contact-form .content .title-shape {
+        left: 27%;
+    }
+    .contact-page-wrapper .contact-form .content .title-shape.style-02 {
+        left: 25%;
+        top: -38%;
+        max-width: 100px;
+    }
+    .join-party-section-area .join-single-item .content .title {
+        font-size: 32px;
+    }
+    .single-party-member-item:hover .content .author-meta {
+        top: 70%;
+    }
+    .counter-section-area .counter-shape-01.style-01 {
+        left: 13%;
+    }
+    .counter-section-area .counter-shape-03.style-01 {
+        right: 13%;
+    }
+    .single-counterup-02 .content .count-wrap {
+        font-size: 55px;
+    }
+    .counter-single-item.style-01 {
+        left: 75px;
+    }
+    .political-gallery-item .gallery-single-items .content .title {
+        font-size: 22px;
+        line-height: 30px;
+        top: 62%;
+        left: 22%;
+        max-width: 330px;
+    }
+    .testimonial-section-area.people-say::after  {
+        width: 150%;
+    }
+    .widget.footer-widget.widget_subscribe .header-content .title.style-01 {
+        font-size: 31px;
+    }
+    .about-us-section-area .about-inner .title {
+        font-size: 53px;
+        line-height: 73px;
+    }
+    .administration-section .administration-single-items .content .title {
+        font-size: 32px;
+        line-height: 42px;
+    }
+    .administration-section .administration-single-items .content p {
+        font-size: 17px;
+        line-height: 27px;
+    }
+    .administration-section .administration-single-items .list-items ul li i {
+        margin-right: 18px;
+    }
+    .why-choose-us-section .single-items-wrapper .why-choose-single-items .content p {
+        line-height: 26px;
+    }
+    .accoridions .section-title .title {
+        font-size: 32px;
+        line-height: 42px;
+    }
+    .about-us-section-area .about-inner .title.style-01 {
+        font-size: 43px;
+        line-height: 63px;
+    }
+    .about-us-section-area .about-inner.issue-single .title {
+        font-size: 45px;
+        line-height: 55px;
+    }
+    .issues-details-section .content .title {
+        font-size: 32px;
+        line-height: 42px;
+    }
+    .issues-details-section .taking-action-issue::after  {
+        content: none;
+    }
+    .issues-details-section .taking-action-issue .action-single-items::before {
+        content: none;
+    }
+    .issues-details-section .taking-action-issue .action-single-items::after {
+        content: none;
+    }
+    .issues-details-section .taking-action-issue .action-single-items {
+        margin-left: 0px;
+    }
+    .testimonial-carousel-six .owl-nav {
+        display: none;
+    }
+    .issues-single-items.style-01 {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .blog-pagination ul li span {
+        padding: 0px 13px;
+        font-size: 14px;
+    }
+    .volunteer-single-items-02 {
+        margin-right: 0px;
+    }
+    .testimonial-carousel-seven .owl-nav {
+        display: none;
+    }
+    .video-play.style-03 i {
+        width: 80px;
+        height: 80px;
+        line-height: 80px;
+        font-size: 25px;    
+    }
+    .video-play.style-03::after {
+        width: 100px;
+        height: 100px;
+        line-height: 100px;
+        left: 23%;
+        top: -240%;;
+    }
+    .testimonial-carousel-five .owl-nav {
+        display: none;
+    }
+    .volunteer-form .form-question .check-box-wrapper .check-box.style-01 {
+        margin-right: 75px;
+    }
+    .volunteer-section-area .volunteer-form {
+        padding: 32px;
+    }
+    .about-us-section-area .about-inner .title {
+        font-size: 43px;
+        line-height: 63px;
+    }
+    .our-journey-section .journey-bg .content .title {
+        font-size: 28px;
+        line-height: 38px;
+    }
+    .our-journey-section .journey-bg .content .title span {
+        font-size: 24px;
+        line-height: 34px;
+    }
+    .our-journey-section .journey-bg .content p {
+        font-size: 15px;
+        line-height: 25px;
+    }
+    .blog-pagination ul li a {
+        line-height: 26px;
+    }
+    .donation-single-items .content .title {
+        font-size: 28px;
+        line-height: 38px;
+    }
+    .contact-page-wrapper .contact-form .contact-page-form .form-group textarea {
+        width: 310px;
+        height: 155px;
+    }
+    .testimonial-section-area.testimonial-bg {
+        padding: 90px 0px 0px;
+    }
+    .header-area.header-sanatory .header-inner.political .form-group .form-btn {
+        right: 20%;
+    }
+    .contact-page-wrapper .contact-form .contact-page-form .form-group textarea {
+        width: 450px;
+        height: 155px;
+    }
+    .campaign-section-area .campaign-single-item .campaign-bg {
+        min-height: 430px;
+    }
+    .issues-details-section .bg-wrapper .issue-details-bg {
+        min-height: 420px;
+    }
+    .about-us-section-area .about-inner.donation-single .title {
+        font-size: 42px;
+        line-height: 52px;
+    }
+    .counter-single-item {
+        left: 30px;
+        bottom: 10px;
+    }
+    .why-choose-us-section.style-01 {
+        margin-top: 120px;
+    }
+    .poll-wrapper {
+        display: none;
+    }
+    .testimonial-carousel-two .owl-item.center .volunteer-single-items {
+        min-height: 384px;
+        height: 384px;
+    }
+    .volunteer-single-items .content {
+        padding-top: 25px;
+    }
+    .volunteer-single-items:hover {
+        min-height: 384px;
+        height: 384;
+    }
+    .header-area .lottie-shape {
+        left: 6%;
+        max-width: 150px;
+    }
+    .btn-wrapper .boxed-btn.btn-poll {
+        display: none;
+    }
+    .accoridion-section {
+        padding: 95px 0px 105px 0px;
+    }
+    .contact-page-form-section .contact-item-wrapper {
+        padding: 35px;
+    }
+    .testimonial-carousel-two .owl-nav {
+        display: none;
+    }
+    .contact_info_list li.single-info-item .icon.style-01 {
+        margin-left: 0px;
+    }
+    .contact_info_list li.single-info-item .details.style-01 {
+        margin-left: 15px;
+    }
+    .donation-content-section .donate-programm .content .amount {
+        display: block;
+    }
+    .donation-content-section .donate-programm .content .amount .btn-wrapper .price-btn {
+        margin-right: 10px;
+        padding: 10px 15px;
+    }
+    .header-area.header-sanatory .senatory-bg-img-02 {
+        display: none;
+    }
+    .header-area.header-sanatory {
+        padding: 200px 0px 134px;
+    }
+    .header-area .dot-07 {
+        left: 10%;
+    }
+    /* Home Page Five */
+    .our-journey-section .journey-bg .content.style-01 {
+        top: 61%;
+    }
+    .our-journey-section .journey-bg .content.style-01 .title {
+        font-size: 24px;
+        line-height: 34px;
+    }
+}
+
+@media only screen and (max-width: 450px) {
+    .navbar-area.nav-style-01 {
+        padding: 0px;
+    }
+    .header-area.header-sanatory .header-inner .title {
+        font-size: 42px;
+        line-height: 52px;
+    }
+    .header-area.header-sanatory .header-inner p {
+        line-height: 26px;
+    }
+    .party-single-item .content .title {
+        font-size: 30px;
+        line-height: 42px;
+    }
+    .party-single-item .content .title.style-01 {
+        font-size: 30px;
+        line-height: 38px;
+    }
+    .vote-section-area .video-section span {
+        font-size: 36px;
+        line-height: 46px;
+    }
+    .section-title .title {
+        font-size: 24px;
+        line-height: 34px;
+    }
+    .campaign-list-item .list-single-items .content .title {
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .campaign-list-item .list-single-items .content p {
+        line-height: 26px;
+    }
+    .single-counterup-01 .content .count-wrap {
+        font-size: 55px;
+        line-height: 65px;
+    }
+    .header-area.header-sanatory .header-inner.political .title {
+        font-size: 34px;
+    }
+    .header-area.header-sanatory .header-inner.political .form-group .form-control {
+        width: 360px;
+    }
+    .join-party-section-area .join-single-item .content .title {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .contact-page-wrapper .contact-form .contact-page-form .form-group textarea {
+        width: 325px;
+    }
+    .single-counterup-02 .content .count-wrap {
+        font-size: 50px;
+    }
+    .counter-single-item.style-01 {
+        left: 40px;
+    }
+    .campaign-list-item-02 .list-single-items {
+        padding: 10px 10px 0px 10px;
+    }
+    .campaign-list-item-02 .list-single-items.active {
+        transform: scale(1.03);
+    }
+    .campaign-list-item-02 .list-single-items .content .title {
+        font-size: 22px;
+        line-height: 30px;
+    }
+    .campaign-list-item-02 .list-single-items .content p {
+        line-height: 26px;
+    }
+    .people-say-single-item .content .title {
+        font-size: 36px;
+        line-height: 46px;
+    }
+    .widget.widget_subscribe.political {
+        padding: 40px 40px;
+    }
+    .widget.footer-widget.widget_subscribe .header-content .title.style-01 {
+        font-size: 30px;
+    }
+    .about-us-section-area .about-inner .title {
+        font-size: 48px;
+        line-height: 68px;
+    }
+    .administration-section .administration-single-items .content .title {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .administration-section .administration-single-items .content p {
+        font-size: 16px;
+        line-height: 26px;
+    }
+    .accoridions .section-title .title {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .accordion-wrapper .card .card-header a {
+        font-size: 18px;
+    }
+    .about-us-section-area .about-inner .title.style-01 {
+        font-size: 42px;
+        line-height: 52px;
+    }
+    .about-us-section-area .about-inner.issue-single .title {
+        font-size: 46px;
+        line-height: 61px;
+    }
+    .blog-pagination ul li span {
+        padding: 0px 5px;
+        font-size: 14px;
+    }
+    .see-our-video-section .video-bg {
+        min-height: 370px;
+    }
+    .section-title .title.volunteer {
+        font-size: 32px;
+        line-height: 42px;
+    }
+    .about-us-section-area .about-inner .title {
+        font-size: 43px;
+        line-height: 63px;
+    }
+    .section-title .title {
+        font-size: 34px;
+        line-height: 44px;
+    }
+    .history-single-item .history-year {
+        position: absolute;
+        left: 68%;
+        top: 51%;
+        transform: translateY(-51%);
+        margin: 0;
+        animation: none;
+    }
+    .issues-single-items .issue-img {
+        min-height: 500px;
+    }
+    .about-us-section-area .about-inner.donation-single .title {
+        font-size: 45px;
+        line-height: 55px;
+    }
+    .donation-single-items .bg-wrapper .donation-bg {
+        min-height: 460px;
+    }
+    blockquote:not(.has-light-gray-color):not(.has-very-dark-gray-color):not(.is-style-large):not(.is-style-large) .author-name {
+        right: 20%;
+    }
+    blockquote:not(.has-light-gray-color):not(.has-very-dark-gray-color):not(.is-style-large):not(.is-style-large) p {
+        font-size: 22px;
+        line-height: 32px;
+    }
+    .volunteer-form {
+        padding: 25px;
+    }
+    .donation-content-section .donate-programm .content .notice .icon {
+        width: 50px;
+        height: 50px;
+        line-height: 50px;
+        font-size: 28px;
+    }
+    .donation-content-section .donate-programm .content .notice p {
+        font-size: 15px;
+        line-height: 25px;
+    }
+    .donation-content-section .donate-programm .content .btn-wrapper .price-btn {
+        font-size: 20px;
+    }
+    .donation-content-section .donate-programm .content .subtitle {
+        font-size: 24px;
+        line-height: 34px;
+    }
+    .issues-single-items {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .event-single-items .content {
+        margin: -50px 15px 0px 15px;
+    }
+    .event-single-items .post-mate {
+        top: -51px;
+        right: 17px;
+    }
+    .event-single-items .post-mate.style-01 {
+        top: 5%;
+        right: 75%;
+    }
+    .event-single-items .content.style-01 .title {
+        font-size: 28px;
+        line-height: 38px;
+    }
+    .contact-page-wrapper .contact-form .content .title-shape.style-01 {
+        left: 25%;
+        top: -47%;
+    }
+    .event-single-items .bg-wrapper .event-bg {
+        min-height: 440px;
+    }
+    .contact-page-form-section .contact-item-wrapper .contact-single-item .content .title {
+        line-height: 46px;
+        font-size: 36px;
+    }
+    .contact-page-form-section .contact-item-wrapper {
+        padding: 20px;
+    }
+    .contact-page-wrapper .contact-form.contact-bg.style-01 {
+        padding: 50px 25px 50px 25px;
+    }
+    .contact-page-wrapper .contact-form .contact-page-form .form-group .text-area {
+        height: 155px;
+    }
+    .contact-page-wrapper .contact-form .contact-page-form .form-group textarea {
+        width: 310px;
+    }
+    .project-plaing-section .single-items-wrapper .planing-single-item {
+        margin-left: 15px;
+    }
+    .project-plaing-section .single-items-wrapper .planing-single-item.style-01 {
+        margin-left: 15px;
+    }
+    .princilple-single-items.style-01 {
+        padding: 0px;
+    }
+    .princilple-single-items .content .title.style-01 {
+        font-size: 22px;
+    }
+    .trafic-section-area .protection-list-items ul li {
+        width: 100%;
+    }
+    .trafic-section-area .inner-section-title .title {
+        font-size: 36px;
+        line-height: 46px;
+    }
+    .single-counterup-01.style-01 {
+        margin-bottom: 0;
+    }
+    .blog-details-items .thumb {
+        margin-bottom: 30px;
+    }
+    .blog-details-items .thumb img {
+        width: 100%;
+    }
+    blockquote:not(.has-light-gray-color):not(.has-very-dark-gray-color):not(.is-style-large):not(.is-style-large) .author-name.style-01 {
+        right: 21%;
+        bottom: -27%;
+    }
+    .campaign-section-area .campaign-single-items-02 .icon {
+        width: 80px;
+        height: 80px;
+        line-height: 80px;
+        font-size: 40px;
+        margin-right: 15px;
+    }
+    .campaign-section-area .campaign-single-items-02 {
+        padding: 25px 20px 25px 20px;
+    }
+    .campaign-section-area .campaign-single-items-02 .content .title-wrapper .title h5 {
+        margin-bottom: 15px;
+    }
+    .testimonial-section-area.testimonial-bg {
+        padding: 70px 0px 0px;
+    }
+    .header-area.header-sanatory .header-inner.political .form-group .form-btn {
+        right: 13%;
+    }
+    .testimonial-carousel-eight .owl-item.center .single-party-member-item .content .author-meta {
+        top: 69%;
+    }
+    .contact-page-wrapper .contact-form .contact-page-form .form-group textarea {
+        width: 360px;
+    }
+    .campaign-section-area .campaign-single-item .campaign-bg-02 {
+        background-repeat: no-repeat;
+        background-size: cover;
+        min-height: 430px;
+    }
+    .campaign-list-item {
+        padding: 30px 25px;
+    }
+    .administration-section .administration-single-items .administrative-bg {
+        min-height: 400px;
+    }
+    .video-play.style-04 i {
+        margin-left: 0;
+        width: 60px;
+        height: 60px;
+        line-height: 60px;
+        font-size: 20px;
+    }
+    .video-play.style-04::after {
+        left: -15%;
+        top: -175%;
+        width: 80px;
+        height: 80px;
+        line-height: 80px;
+    }
+    .blog-pagination {
+        padding-left: 25px;
+    }
+    .testimonial-carousel-two .owl-item.center .volunteer-single-items {
+        height: 525px;
+    }
+    .volunteer-single-items:hover {
+        min-height: 525px;
+        height: 525px;
+    }
+    .header-area .lottie-shape {
+        left: 0%;
+        max-width: 165px;
+        top: 17%;
+    }
+    .our-party-section-area.party-vision {
+        margin-top: 91px;
+    }
+    .testimonial-section-area.testimonial-bg-02 {
+        padding: 60px 0px 70px;
+    }
+    .donation-section-area.political {
+        padding: 90px 0px;
+    }
+    .accoridion-section .section-title .title {
+        font-size: 38px;
+        line-height: 58px;
+    }
+    .accoridion-section .section-title .title {
+        font-size: 35px;
+        line-height: 45px;
+    }
+    .history-timeline-section {
+        padding: 70px 0px 10px 0px;
+    }
+    .political-gallery-item .gallery-single-items {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .issues-single-items .content .title {
+        margin-bottom: 20px;
+    }
+    .campaign-list-item-02 {
+        padding: 20px 20px 15px 20px;
+    }
+    .header-area.header-sanatory.header-bg-02 {
+        background-position: left;
+    }
+    .people-say-single-item-02 .people-say-bg-02 {
+        display: none;
+    }
+    .people-say-section.people-say-bg {
+        padding: 80px 0px 20px 0px;
+    }
+    .counter-single-item.style-02 .counter-item {
+        width: 80px;
+        height: 80px;
+    }
+    .counter-single-item.style-02 .counter-item span {
+        line-height: 15px;
+        font-size: 33px;
+    }
+    .counter-single-item.style-02 .counter-item h6 {
+        padding: 4px;
+    }
+    .counter-single-item.style-02 {
+        bottom: -15px;
+        left: 7px;
+    }
+    .contact_info_list {
+        padding: 30px 0px 0px;
+    }
+    .header-area .subtitle {
+        font-size: 22px;
+    }
+    .header-area.header-sanatory .header-inner .title {
+        font-size: 35px;
+        line-height: 45px;
+    }
+    .header-area .dot-07 {
+        left: 5%;
+    }
+    .header-area.header-bg-03::before {
+        background: transparent;
+    }
+    .meet-member-section .dot-shape-03 {
+        top: 2%;
+        right: 0%;
+    }
+    .meet-member-wrapper .meet-member-img .member-quotes {
+        left: -45%;
+    }
+    .video-play {
+        margin-left: 15px;
+    }
+    .section-title .title {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .political-testimonial-section .pt-single-item .description {
+        font-size: 16px;
+        line-height: 26px;
+    }
+    .political-testimonial-section .political-slider-two::before {
+        width: 40px;
+        left: -30px;
+    }
+    .political-testimonial-section .political-slider-two .slide-arrow.prev-arrow {
+        left: -15%;
+    }
+    .political-testimonial-section .political-slider-two::after {
+        width: 40px;
+        right: -48px;
+    }
+    .political-testimonial-section .political-slider-two .slide-arrow.next-arrow {
+        right: -19%;
+    }
+    .testimonial-carousel-eight .owl-item.center .single-party-member-item-02 .content {
+        left: 16%;
+    }
+    .accordion-wrapper-02 .card .card-header a {
+        font-size: 18px;
+        line-height: 28px;
+        padding: 20px 20px 20px 20px;
+    }
+    .accordion-wrapper-02 .card .card-body {
+        font-size: 15px;
+        line-height: 25px;
+    }
+    .strenth-single-items.style-01.home-three {
+        margin-top: 30px;
+    }
+    .youth-leader-section {
+        margin-top: 115px;
+    }
+    .party-single-item .content .subtitle p {
+        margin-bottom: 5px;
+    }
+    .party-single-item .content .title.style-01 {
+        margin-bottom: 15px;
+    }
+    .btn-wrapper .boxed-btn.donate-btn {
+        margin-top: 40px;
+    }
+    .donation-section-area .donate-bg {
+        min-height: 330px;
+    }
+    .donation-section-area .donate-bg-02 {
+        min-height: 330px;
+    }
+    .political-event-section {
+        margin-top: 100px;
+    }
+    /* Home Page Five */
+    .header-area .home-five-banner {
+        padding: 25px 25px 25px 25px;
+    }
+    .header-area.header-sanatory .header-inner-02 .subtitle {
+        font-size: 15px;
+        margin-bottom: 5px;
+    }
+    .header-area.header-sanatory .header-inner-02 .title {
+        font-size: 40px;
+        line-height: 50px;
+    }
+    .header-area.header-sanatory .header-inner-02 p {
+        font-size: 16px;
+    }
+    .header-area .home-five-banner .thumbnail img {
+        display: none;
+    }
+    .navbar-area.nav-style-02 .nav-container {
+        padding: 28px 0px;
+    }
+    .services-single-section.style-01 {
+        margin-top: 90px;
+    }
+    .our-principle-section {
+        margin-top: 90px;
+    }
+    .our-journey-section.style-01 {
+        padding: 90px 0px 50px 0px;
+    }
+}   
+
+@media only screen and (max-width: 414px) {
+    .header-area.header-sanatory .header-inner .title {
+        font-size: 40px;
+        line-height: 50px;
+    }
+    .single-testimonial-item .content .title {
+        font-size: 22px;
+        line-height: 32px;
+    }
+    .party-single-item .content .title {
+        font-size: 27px;
+        line-height: 37px;
+    }
+    .party-single-item .content .title.style-01 {
+        font-size: 27px;
+        line-height: 37px;
+    }
+    .donation-section-area .donate-bg-02 {
+        background-position: center top;
+    }
+    .vote-section-area .video-section span {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .counter-single-item {
+        left: 35px;
+    }
+    .party-single-item.style-02 .content .title {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .news-single-list .news-single-list-items .content .title {
+        font-size: 16px;
+        line-height: 26px;
+    }
+    .header-area .subtitle {
+        font-size: 20px;
+    }
+    .header-area.header-sanatory .header-inner.political .title {
+        font-size: 30px;
+    }
+    .header-area.header-sanatory .header-inner.political .form-group .form-control {
+        width: 325px;
+    }
+    .our-vision-item .content .title {
+        font-size: 32px;
+    }
+    .party-single-item .content .vision-quotes .title {
+        font-size: 20px;
+        line-height: 32px;
+    }
+    .join-party-section-area .join-single-item .content .title {
+        font-size: 27px;
+        line-height: 38px;
+    }
+    .contact-page-wrapper .contact-form .content .title-shape {
+        left: 14%;
+    }
+    .contact-page-wrapper .contact-form .contact-page-form .form-group textarea {
+        width: 285px;
+    }
+    .single-party-member-item:hover .content .author-meta {
+        top: 65%;
+    }
+    .counter-section-area .counter-shape-01.style-01 {
+        left: 17%;
+    }
+    .counter-section-area .counter-shape-03.style-01 {
+        right: 17%;
+    }
+    .counter-single-item.style-01 {
+        left: 35px;
+    }
+    .people-say-single-item .content .title {
+        font-size: 32px;
+        line-height: 42px;
+        margin-bottom: 20px;
+    }
+    .widget.widget_subscribe.political {
+        padding: 35px 35px;
+    }
+    .widget.footer-widget.widget_subscribe .header-content .title.style-01 {
+        font-size: 27px;
+        line-height: 37px;
+    }
+    .about-us-section-area .about-inner .title {
+        font-size: 42px;
+        line-height: 52px;
+    }
+    .people-say-single-item .content .title {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .our-journey-section .journey-bg .content p {
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .history-slider .history-number .history-year h3 {
+        margin-left: 4px;
+    }
+    
+    .history-single-item .history-year {
+        left: 65%;
+    }
+    .history-single-item .history-year .month {
+        font-size: 17px;
+        line-height: 27px;
+    }
+    .history-single-item .history-year .year {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .issues-single-items .content .title {
+        font-size: 19px;
+        line-height: 29px;
+    }
+    .issues-single-items .issue-img {
+        min-height: 440px;
+    }
+    .donation-single-items .content .title {
+        font-size: 24px;
+        line-height: 35px;
+    }
+    blockquote:not(.has-light-gray-color):not(.has-very-dark-gray-color):not(.is-style-large):not(.is-style-large) .author-name {
+        right: 22%;
+    }
+    blockquote:not(.has-light-gray-color):not(.has-very-dark-gray-color):not(.is-style-large):not(.is-style-large) p {
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .donation-content-section .donate-programm .content .subtitle {
+        font-size: 22px;
+        line-height: 32px;
+    }
+    .donation-content-section .donate-programm .content .notice {
+        display: block;
+        padding: 15px;
+    }
+    .contact-form .title {
+        font-size: 19px;
+        line-height: 29px;
+    }
+    .donation-single-items .bg-wrapper .donation-bg {
+        min-height: 390px;
+    }
+    blockquote:not(.has-light-gray-color):not(.has-very-dark-gray-color):not(.is-style-large):not(.is-style-large) .author-name {
+        right: 25%;
+    }
+    .event-single-items .content .subtitle {
+        display: block;
+    }
+    .event-single-items .content p {
+        margin-bottom: 15px;
+    }
+    .event-single-items .content .title {
+        font-size: 22px;
+        line-height: 32px;
+    }
+    .event-single-items .post-mate {
+        top: -38px;
+        right: 17px;
+    }
+    .counter-single-item {
+        left: 90px;
+    }
+    .counter-single-item .counter-item {
+        margin-bottom: 30px;
+    }
+    .event-single-items .bg-wrapper .event-bg {
+        min-height: 420px;
+    }
+    .contact-page-form-section .contact-item-wrapper .contact-single-item .content .title {
+        line-height: 44px;
+        font-size: 34px;
+    }
+    .contact-page-wrapper .contact-form .content .title-shape {
+        left: 18%;
+    }
+    .contact-page-wrapper .contact-form .contact-page-form .form-group textarea {
+        width: 276px;
+    }
+    .trafic-section-area .inner-section-title .title {
+        font-size: 32px;
+        line-height: 42px;
+    }
+    .campaign-section-area .campaign-single-items-02 {
+        display: block;
+    }
+    .campaign-single-items-02 .icon {
+        margin-bottom: 10px;
+    }
+    .campaign-section-area .campaign-single-items-02 .content .title-wrapper .title h5 {
+        margin-bottom: 10px;
+    }
+    .contact-page-wrapper .contact-form .contact-page-form .form-group textarea {
+        width: 325px;
+    }
+    .testimonial-carousel-eight .owl-item.center .single-party-member-item .content .author-meta {
+        top: 67%;
+    }
+    .header-area.header-sanatory .header-inner.political .form-group .form-btn {
+        right: 0%;
+    }
+    .our-vision-item .content {
+        padding: 50px 50px;
+    }
+    .campaign-list-item-02 {
+        padding: 20px;
+    }
+    .blog-pagination {
+        padding-left: 18px;
+    }
+    .testimonial-carousel-two .owl-item.center .volunteer-single-items {
+        height: 492px;
+    }
+    .header-area .lottie-shape {
+        left: 0%;
+        max-width: 135px;
+    }
+    .contact-page-wrapper .contact-form .content .title-shape.style-02 {
+        left: 21%;
+        top: -38%;
+        max-width: 100px;
+    }
+    .donation-content-section .donate-programm .content .amount .btn-wrapper .price-btn {
+        margin-right: 7px;
+        padding: 10px 15px;
+    }
+    .counter-single-item.style-02 .counter-item {
+        width: 70px;
+        height: 70px;
+    }
+    .counter-single-item.style-02 .counter-item span {
+        line-height: 10px;
+        font-size: 25px;
+    }
+    .counter-single-item.style-02 .counter-item h6 {
+        padding: 4px;
+        line-height: 22px;
+    }
+    .counter-single-item.style-02 {
+        bottom: -15px;
+        left: 7px;
+    }
+    .header-area.header-sanatory {
+        padding: 160px 0px 80px;
+    }
+    .header-area .subtitle span {
+        font-size: 19px;
+        line-height: 29px;
+    }
+    .header-area.header-sanatory .header-inner .title {
+        font-size: 32px;
+        line-height: 42px;
+    }
+    .header-area .dot-06, .header-area .dot-07 {
+        display: none;
+    }
+    .meet-member-wrapper .meet-member-img .member-quotes {
+        left: -38%;
+        top: 35%;
+        padding: 20px 20px;
+    }
+    .meet-member-wrapper .meet-member-img .member-quotes .title {
+        max-width: 380px;
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .meet-single-items .content .title {
+        font-size: 35px;
+        line-height: 45px;
+    }
+    .youth-leader-section .youth-shape {
+        display: none;
+    }
+    .section-title .title {
+        font-size: 28px;
+        line-height: 38px;
+    }
+    .political-testimonial-section .political-slider-two::before {
+        display: none;
+    }
+    .political-testimonial-section .political-slider-two::after {
+        display: none;
+    }
+    .political-testimonial-section .political-slider-two .slide-arrow.prev-arrow {
+        left: -10%;
+    }
+    .political-testimonial-section .political-slider-two .slide-arrow.next-arrow {
+        right: -10%;
+    }
+    .testimonial-carousel-eight .owl-item.center .single-party-member-item-02 .content {
+        left: 13%;
+        top: 48%;
+    }
+    .accordion-wrapper-02 .card .card-header a::after {
+        right: 15px;
+    }
+    .header-area .dot-02 {
+        left: 3%;
+    }
+    .header-area .dot-05 {
+        right: 2%;
+    }
+    .contact_info_list li.single-info-item .details.style-02 {
+        margin-left: 15px;
+    }
+}
+
+@media only screen and (max-width: 393px) {
+    .header-area.header-sanatory .header-inner .title {
+        font-size: 30px;
+        line-height: 40px;
+    } 
+    .video-play.style-04 span {
+        display: none;
+    }
+    .header-area .dot-09,.header-area .dot-08,.header-area .dot-05,.header-area .dot-04,.header-area .dot-02 {
+        display: none;
+    }
+    .meet-member-wrapper .meet-member-img .member-quotes {
+        left: -37%;
+        top: 34%;
+    }
+    .meet-member-section .dot-shape-02 {
+        display: none;
+    }
+    .meet-member-section {
+        padding: 120px 0px 116px 0px;
+    }
+    .meet-member-section .section-star {
+        opacity: 0.7;
+    }
+    .inner-single-items .content h6 {
+        font-size: 18px;
+        line-height: 28px;
+    }
+}
+
+@media only screen and (max-width: 375px) {
+    .header-area.header-sanatory .header-inner .title {
+        font-size: 36px;
+        line-height: 46px;
+    }
+    .party-single-item .content .subtitle p {
+        font-size: 17px;
+        line-height: 27px;
+    }
+    .party-single-item .content .title {
+        font-size: 24px;
+        line-height: 34px;
+    }
+    .party-single-item .content .feedback span {
+        font-size: 38px;
+        line-height: 48px;
+    }
+    .party-single-item .content .title.style-01 {
+        font-size: 24px;
+        line-height: 34px;
+    }
+    .donation-section-area .donate-bg {
+        min-height: 300px;
+    }
+    .donation-section-area .donate-bg-02 {
+        min-height: 270px;
+    }
+    .vote-section-area .video-section span {
+        font-size: 26px;
+        line-height: 36px;
+    }
+    .about-us-section-area .about-inner .title {
+        font-size: 40px;
+        line-height: 60px;
+    }
+    .about-us-section-area .about-inner .title.style-01 {
+        font-size: 38px;
+        line-height: 58px;
+    }
+    .about-us-section-area .breadcrumbs ul {
+        padding: 7px 12px;
+    }
+    .people-say-single-item .content .title {
+        font-size: 28px;
+        line-height: 38px;
+    }
+    .people-say-single-item .quotes.style-02 {
+        display: none;
+    }
+    .people-say-single-item-02 .content .author-meta {
+        display: block;
+    }
+    .people-say-single-item-02 .content .author-meta .thumb {
+        width: 60px;
+        margin-bottom: 20px;
+    }
+    .people-say-single-item-02 .testimonial-carousel-four .owl-nav .owl-prev {
+        top: 85%;
+    }
+    .people-say-single-item-02 .testimonial-carousel-four .owl-nav .owl-next {
+        top: 85%;
+    }
+    .about-us-section-area .breadcrumbs ul {
+        padding: 8px 8px;
+    }
+    .issues-details-section .taking-action-issue .action-single-items .action-shape {
+        display: none;
+    }
+    .issues-details-section .taking-action-issue .action-single-items {
+        padding: 26px 30px 26px 30px;
+    }
+    .about-us-section-area .about-inner .title {
+        font-size: 39px;
+        line-height: 59px;
+    }
+    .about-inner.history .title {
+        font-size: 42px;
+        line-height: 52px;
+    }
+    .our-journey-section .journey-bg {
+        min-height: 340px;
+    }
+    .history-slider .history-number {
+        left: 14px;
+    }
+    .history-slider .history-number .history-year h3 {
+        margin-left: 8px;
+    }
+    .section-title .title {
+        font-size: 32px;
+        line-height: 42px;
+    }
+    .history-single-item .history-year {
+        left: 62%;
+        top: 50%;
+    }
+    .history-single-item .history-year .month {
+        font-size: 16px;
+        line-height: 26px;
+    }
+    .history-single-item .history-year .year {
+        font-size: 28px;
+        line-height: 38px;
+    }
+    .history-single-item .history-single-item-content .content .title {
+        font-size: 20px;
+    }
+    .history-single-item .history-single-item-content .content p {
+        line-height: 24px;
+    }
+    .progress-content .goal .raised {
+        font-size: 18px;
+    }
+    .donation-content-section .donate-programm .content .notice .icon {
+        margin-bottom: 10px;
+    }
+    .donation-content-section .donate-programm .content .btn-wrapper .price-btn {
+        font-size: 18px;
+        padding: 10px 17px;
+    }
+    .event-single-items .content .title {
+        font-size: 19px;
+        line-height: 29px;
+    }
+    .counter-single-item {
+        left: 45px;
+    }
+    .event-single-items .post-mate.style-01 {
+        right: 70%;
+    }
+    .event-single-items .content.style-01 .title {
+        font-size: 26px;
+        line-height: 36px;
+    }
+    .event-single-items .content.style-01 .subtitle .location .icon {
+        font-size: 18px;
+    }
+    .event-single-items .content.style-01 .subtitle .location p {
+        font-size: 18px;
+        line-height: 32px;
+    }
+    .contact-page-wrapper .contact-form .content .title-shape.style-01 {
+        left: 18%;
+        top: -47%;
+    }
+    .event-facilities-section .facility-single-item .content .title {
+        font-size: 38px;
+        line-height: 48px;
+    }
+    .contact-page-form-section .contact-item-wrapper .contact-single-item .content .title {
+        line-height: 42px;
+        font-size: 32px;
+    }
+    
+    .contact-page-wrapper .contact-form.contact-bg.style-01 {
+        padding: 50px 15px 50px 15px;
+    }
+    .office-address-section .contact-shape-02 {
+        display: none;
+    }
+    .office-address-section .contact-shape {
+        display: none;
+    }
+    .contact-page-wrapper .contact-form .contact-page-form .form-group textarea {
+        width: 255px;
+    }
+    .contact-page-wrapper .contact-form .contact-page-form .form-group .text-area {
+        height: 130px;
+    }
+    .contact-page-wrapper .contact-form .content .title-shape {
+        left: 13%;
+    }
+    .princilple-single-items.style-01 {
+        display: block;
+        padding-left: 20px;
+    }
+    .princilple-single-items .icon.style-01 {
+        margin-bottom: 30px;
+    }
+    .project-plaing-section .single-items-wrapper.planing-bg {
+        background-size: cover;
+    }
+    .trafic-section-area .inner-section-title .title {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .trafic-section-area .inner-section-title p {
+        font-size: 16px;
+        line-height: 26px;
+    }
+    blockquote:not(.has-light-gray-color):not(.has-very-dark-gray-color):not(.is-style-large):not(.is-style-large) .author-name.style-01 {
+        right: 25%;
+        bottom: -24%;
+    }
+    .testimonial-section-area.testimonial-bg {
+        padding: 55px 0px 0px;
+    }
+    .contact-page-wrapper .contact-form .contact-page-form .form-group textarea {
+        width: 285px;
+    }
+    .testimonial-carousel-eight .owl-item.center .single-party-member-item .content .author-meta {
+        top: 63%;
+    }
+    .campaign-list-item-02 {
+        padding: 20px;
+    }
+    .campaign-list-item-02 .list-single-items .content .title {
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .campaign-section-area .campaign-single-item .campaign-bg {
+        min-height: 470px;
+    }
+    .campaign-list-item {
+        padding: 25px 15px;
+    }
+    .volunteer-single-items-02:hover {
+        height: 426px;
+    }
+    .testimonial-carousel-two .owl-item.center .volunteer-single-items {
+        height: 460px;
+    }
+    .testimonial-section-area.testimonial-bg-02 {
+        padding: 50px 0px 70px;
+    }
+    .accoridion-section .section-title .title {
+        font-size: 32px;
+        line-height: 42px;
+    }
+    .contact-page-wrapper .contact-form .content .title-shape.style-02 {
+        left: 19%;
+        top: -38%;
+        max-width: 100px;
+    }
+    .counter-single-item.style-01 {
+        left: 60px;
+        bottom: -25px;
+    }
+    .counter-single-item .counter-item {
+        width: 80px;
+        height: 80px;
+    }
+    .counter-single-item.style-01 {
+        left: 34px;
+        bottom: -25px;
+    }
+    .counter-single-item .counter-item span {
+        line-height: 10px;
+        font-size: 30px;
+    }
+    .counter-single-item .counter-item h6 {
+        padding: 6px;
+    }
+    .donation-content-section .donate-programm .content .amount .btn-wrapper {
+        margin-bottom: 20px;
+    }
+    .donation-content-section .donate-programm .content .amount .btn-wrapper .price-btn {
+        line-height: 64px;
+        font-size: 20px;
+    }
+    .counter-single-item.style-02 {
+        bottom: -15px;
+        left: 32px;
+    }
+    .header-area .dot-09,.header-area .dot-08,.header-area .dot-05,.header-area .dot-04,.header-area .dot-02 {
+        display: none;
+    }
+    .header-area .subtitle span {
+        font-size: 18px;
+        line-height: 28px;
+    }
+    .header-area.header-sanatory .header-inner .title {
+        font-size: 29px;
+        line-height: 39px;
+    }
+    .video-play.style-04 span {
+        display: none;
+    }
+    .meet-member-wrapper .meet-member-img .member-quotes {
+        left: -42%;
+    }
+    .meet-single-items .content .subtitle p {
+        font-size: 18px;
+    }
+    .meet-single-items .content .title {
+        font-size: 32px;
+        line-height: 42px;
+    }
+    .section-title .title {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .political-testimonial-section .political-slider-two .slide-arrow.prev-arrow {
+        left: -5%;
+    }
+    .political-testimonial-section .political-slider-two .slide-arrow.next-arrow {
+        right: -7%;
+    }
+    .testimonial-carousel-eight .owl-item.center .single-party-member-item-02 .content {
+        left: 14%;
+        top: 48%;
+        width: 250px;
+    }
+    /* Home Page Five */
+    .header-area.header-sanatory .header-inner-02 .subtitle {
+        font-size: 16px;
+        margin-bottom: 5px;
+    }
+    .header-area.header-sanatory .header-inner-02 .title {
+        font-size: 34px;
+        line-height: 44px;
+    }
+    .our-journey-section .journey-bg .content.style-01 {
+        position: initial;
+        transform: initial;
+    }
+    .more-issue-section.style-01 .event-single-items {
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+    .more-issue-section.style-01 .event-single-items .content {
+        padding: 30px 25px;
+    }
+    /* issue details two */
+    .issues-details-section .bg-wrapper .issue-details-bg-02 {
+            background-size: cover;
+    }
+}
+
+@media only screen and (max-width: 360px) {
+    .section-title .title {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .progress-content .goal .raised {
+        font-size: 17px;
+    }
+    .about-us-section-area .about-inner.donation-single .title {
+        font-size: 40px;
+        line-height: 50px;
+    }
+    .event-single-items .post-mate {
+        top: -118px;
+        right: 5%;
+    }
+    .event-single-items .content {
+        margin: 30px 0px 0px 0px;
+    }
+    .counter-single-item .counter-item {
+        width: 70px;
+        height: 70px;
+    }
+    .counter-single-item .counter-item span {
+        line-height: 8px;
+        font-size: 30px;
+    }
+    .counter-single-item .counter-item h6 {
+        padding: 3px;
+    }
+    .counter-single-item {
+        left: 50px;
+    }
+    .event-single-items .content.style-01 .subtitle .location p {
+        font-size: 16px;
+        line-height: 30px;
+    }
+    .event-single-items .content.style-01 .subtitle .location .icon {
+        font-size: 16px;
+    }
+    .event-single-items .content.style-01 .subtitle .time p {
+        font-size: 16px;
+        line-height: 26px;
+    }
+    .event-single-items .content.style-01 .subtitle .time .icon {
+        font-size: 16px;
+    }
+    .event-single-items .content.style-01 .title {
+        font-size: 24px;
+        line-height: 34px;
+    }
+    .event-facilities-section .facility-single-item .content .title {
+        font-size: 35px;
+        line-height: 45px;
+    }
+    .event-facilities-section .facility-single-item .content p {
+        font-size: 16px;
+        line-height: 26px;
+    }
+    .party-single-item.party-member p {
+        font-size: 16px;
+        line-height: 26px;
+    }
+    .contact-page-wrapper .contact-form .contact-page-form .form-group textarea {
+        width: 240px;
+    }
+    .trafic-section-area .inner-section-title .title {
+        font-size: 28px;
+        line-height: 38px;
+    }
+    .news-single-items .news-bg {
+        min-height: 350px;
+    }
+    .blog-details-items .title {
+        font-size: 28px;
+    }
+    .counter-single-item {
+        left: 30px;
+    }
+    .testimonial-section-area.testimonial-bg {
+        padding: 35px 0px 0px;
+    }
+    .contact-page-wrapper .contact-form .contact-page-form .form-group textarea {
+        width: 272px;
+    }
+    .campaign-section-area .campaign-single-item .campaign-bg-02 {
+        min-height: 390px;
+    }
+    .about-us-section-area .about-inner .title.style-01 {
+        font-size: 36px;
+        line-height: 56px;
+    }
+    .volunteer-single-items-02:hover {
+        height: 422px;
+    }
+    .testimonial-carousel-two .owl-item.center .volunteer-single-items {
+        height: 450px;
+    }
+    .accoridion-section .section-title .title {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .administration-section .administration-single-items .administrative-bg {
+        min-height: 310px;
+    }
+    .header-area.header-sanatory .header-inner .title {
+        font-size: 28px;
+        line-height: 38px;
+    }
+    .header-area.header-sanatory {
+        padding: 150px 0px 80px;
+    }
+    .meet-member-wrapper .meet-member-img .member-quotes {
+        left: -47%;
+    }
+    .political-event-single-items {
+        padding: 20px 20px 20px 20px;
+    }
+    .testimonial-carousel-eight .owl-item.center .single-party-member-item-02 .content {
+        left: 12%;
+        top: 43%; 
+    }
+    .section-title .title {
+        font-size: 28px;
+        line-height: 38px;
+    }
+    .inner-single-items .content h6 {
+    font-size: 16px;
+    line-height: 26px;
+    }
+    /* Home Page Five */
+    .header-area.header-sanatory .header-inner-02 .subtitle i {
+        display: none;
+    }
+    .navbar-area.nav-style-02 {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    /* Home Page Six */
+    .counter-single-item.style-03 {
+        padding: 10px 20px 10px 20px;
+    }
+}
+
+@media only screen and (max-width: 320px) {
+    .header-area.header-sanatory .header-inner.political .title {
+        font-size: 25px;
+        line-height: 40px;
+    }
+    .header-area.header-sanatory .header-inner.political .form-group .form-control {
+        width: 290px;
+    }
+    .header-area.header-sanatory .header-inner.political .form-group .form-btn {
+        right: 0%;
+    }
+    .our-vision-item .content .subtitle p {
+        font-size: 15px;
+        line-height: 25px;
+    }
+    .our-vision-item .content .title {
+        font-size: 32px;
+        line-height: 42px;
+    }
+    .vision-single-item-wrapper .our-vision-single-item .content .title {
+        font-size: 19px;
+        line-height: 29px;
+    }
+    .contact-page-wrapper .contact-form .content .title-shape {
+        left: 6%;
+    }
+    .contact-page-wrapper .contact-form .contact-page-form .form-group textarea {
+        width: 230px;
+    }
+    .single-counterup-02 {
+        padding: 30px 17px;
+    }
+    .single-counterup-02 .content .title {
+        font-size: 20px;
+    }
+    .single-counterup-02 .content .count-wrap {
+        font-size: 40px;
+    }
+    .counter-single-item.style-01 {
+        left: 75px;
+        top: 315px;
+    }
+    .donation-section-area .btn-wrapper .price-btn {
+        margin-right: 16px;
+    }
+    .people-say-single-item .content .title {
+        font-size: 30px;
+    }
+    .widget.footer-widget.widget_subscribe .header-content .title.style-01 {
+        font-size: 22px;
+        line-height: 32px;
+    }
+    .single-party-member-item .content .author-meta {
+        width: 260px;
+    }
+    .single-party-member-item .content .author-meta {
+        padding: 25px 40px;
+    }
+    .about-us-section-area .about-inner .title {
+        font-size: 35px;
+        line-height: 60px;
+    }
+    .about-us-section-area .breadcrumbs ul {
+        padding: 5px 14px;
+    }
+    .about-us-section-area .breadcrumbs ul li a {
+        font-size: 14px;
+    }
+    .administration-section .administration-single-items .content .title {
+        font-size: 28px;
+        line-height: 38px;
+    }
+    .administration-section .administration-single-items .administration-quotes .title {
+        font-size: 17px;
+        line-height: 27px;
+    }
+    .section-title .subtitle p {
+        font-size: 16px;
+        line-height: 26px;
+    }
+    .administration-section .administration-single-items .feedback .feedback-single {
+        margin-right: 20px;
+    }
+    .administration-section .administration-single-items .feedback .feedback-single span {
+        font-size: 35px;
+        line-height: 45px;
+    }
+    .accoridions .section-title .title {
+        font-size: 26px;
+        line-height: 36px;
+    }
+    .accordion-wrapper .card .card-header a {
+        font-size: 16px;
+    }
+    .about-us-section-area .about-inner .title.style-01 {
+        font-size: 32px;
+        line-height: 42px;
+    }
+    .about-us-section-area .breadcrumbs ul li a {
+        font-size: 12px;
+    }
+    .people-say-single-item .content .subtitle p {
+        font-size: 18px;
+    }
+    .people-say-single-item .content .title {
+        font-size: 24px;
+    }
+    .about-us-section-area .breadcrumbs ul li a {
+        font-size: 16px;
+    }
+    .issues-details-section .content .title {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .blog-pagination ul li + li {
+        margin: 0 2px;
+    }
+    .about-us-section-area .about-inner .title {
+        font-size: 34px;
+        line-height: 54px;
+    }
+    .about-us-section-area .breadcrumbs ul {
+        padding: 5px 7px;
+    }
+    .about-inner.history .title {
+        font-size: 28px;
+        line-height: 38px;
+    }
+    .about-us-section-area .breadcrumbs ul {
+        padding: 4px 5px;
+    }
+    .about-us-section-area .breadcrumbs ul li a {
+        font-size: 15px;
+    }
+    .our-journey-section .journey-bg {
+        min-height: 300px;
+    }
+    .slick-slider-controls {
+        display: none;
+    }
+    .history-slider .history-number .history-year::after  {
+        content: none;
+    }
+    .history-single-item .history-year {
+        left: 63%;
+        top: 50%;
+        width: 100px;
+    }
+    .issues-single-items .issue-img {
+        min-height: 325px;
+    }
+    .donation-single-items .content .title {
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .donation-single-items .content .subtitle {
+        font-size: 18px;
+        line-height: 30px;
+    }
+    blockquote:not(.has-light-gray-color):not(.has-very-dark-gray-color):not(.is-style-large):not(.is-style-large) .author-name {
+        right: 30%;
+    }
+    .donation-content-section .donate-programm .content .btn-wrapper .price-btn {
+        margin-right: 10px;
+        font-size: 16px;
+    }
+    .section-title .title {
+        font-size: 28px;
+        line-height: 38px;
+    }
+    .event-single-items .content {
+        padding: 25px;
+    }
+    .event-single-items .content .title {
+        font-size: 18px;
+        line-height: 28px;
+    }
+    .btn-wrapper .boxed-btn.event-btn {
+        font-size: 16px;
+        line-height: 26px;
+    }
+    .event-facilities-section .facility-single-item .content .title.style-01 {
+        font-size: 22px;
+        line-height: 32px;
+    }
+    .single-party-member-item .content .author-meta .author-name {
+        font-size: 20px;
+        line-height: 26px;
+    }
+    .event-single-items .bg-wrapper .event-bg {
+        min-height: 350px;
+    }
+    .counter-single-item {
+        left: 60px;
+    }
+    .event-single-items .post-mate::after {
+        left: 2px;
+        top: 2px;
+    }
+    .event-single-items .post-mate {
+        width: 70px;
+        height: 70px;
+        padding: 17px;
+    }
+    .event-single-items .content.style-01 .title {
+        font-size: 22px;
+        line-height: 32px;
+    }
+    .contact-page-wrapper .contact-form .content .title-shape.style-01 {
+        left: 10%;
+        top: -47%;
+    }
+    .contact-page-form-section .contact-item-wrapper .contact-single-item .content .title {
+        line-height: 38px;
+        font-size: 28px;
+    }
+    .contact-page-form-section .contact-item-wrapper {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .contact-page-wrapper .contact-form .content .title-shape {
+        left: 8%;
+    }
+    .about-us-section-area .about-inner .title {
+        font-size: 45px;
+        line-height: 55px;
+    }
+    .about-us-section-area .about-inner.services-single .title {
+        font-size: 38px;
+        line-height: 48px;
+    }
+    .trafic-section-area .protection-list-items .title {
+        font-size: 18px;
+        line-height: 28px;
+    }
+    blockquote:not(.has-light-gray-color):not(.has-very-dark-gray-color):not(.is-style-large):not(.is-style-large) .author-name.style-01 {
+        right: 30%;
+        bottom: -24%;
+    }
+    .blog-details-items .title {
+        font-size: 24px;
+    }
+    .testimonial-section-area.testimonial-bg {
+        padding: 65px 0px 0px;
+    }
+    .party-single-item.style-02 .content .title {
+        font-size: 28px;
+        line-height: 38px;
+    }
+    .party-single-item.style-02 .content .quotes .description {
+        font-size: 18px;
+        line-height: 28px;
+    }
+    .campaign-section-area .campaign-single-items-02 .content .title-wrapper .title h5 {
+        font-size: 22px;
+        line-height: 31px;
+    }
+    .vote-section-area .video-section span {
+        font-size: 23px;
+        line-height: 33px;
+    }
+    .video-play.style-01 i {
+        height: 70px;
+        width: 70px;
+        line-height: 70px;
+    }
+    .video-play.style-01::after {
+        left: 25%;
+        top: -135%;
+        z-index: -1;
+        width: 90px;
+        height: 90px;
+        line-height: 90px;
+    }
+    .header-area.header-sanatory .header-inner .title {
+        font-size: 35px;
+        line-height: 45px;
+    }
+    .campaign-section-area .campaign-single-item .campaign-bg-02 {
+        min-height: 535px;
+    }
+    .campaign-section-area .campaign-single-item .campaign-bg {
+        min-height: 375px;
+    }
+    .campaign-section-area .campaign-single-item .campaign-bg-02 {
+        min-height: 345px;
+    }
+    .counter-single-item.style-01 {
+        left: 21px;
+        top: 222px;
+    }
+    .campaign-list-item-02 .list-single-items.active {
+        transform: scale(1);
+    }
+    .campaign-list-item-02 {
+        padding: 15px;
+    }
+    .campaign-list-item-02 .list-single-items {
+        margin-bottom: 20px;
+    }
+    .contact-page-wrapper .contact-form .contact-page-form .form-group.style-01 textarea {
+        width: 232px;
+    }
+    .volunteer-single-items-02:hover {
+        height: 388px;
+    }
+    .testimonial-carousel-two .owl-item.center .volunteer-single-items {
+        height: 415px;
+    }
+    .header-area .lottie-shape {
+        left: 0%;
+        max-width: 124px;
+        top: 16%;
+    }
+    .counter-section-inner {
+        padding: 25px;
+    }
+    .testimonial-section-area.testimonial-bg-02 {
+        padding: 35px 0px 70px;
+    }
+    .testimonial-section-area .testimonial-carousel-four .owl-nav .owl-prev {
+        left: 8%;
+    }
+    .testimonial-section-area .testimonial-carousel-four .owl-nav .owl-next {
+        left: 15%;
+    }
+    .donation-section-area.political {
+        padding: 60px 0px 20px;
+    }
+    .accoridion-section .section-title .title {
+        font-size: 27px;
+        line-height: 38px;
+    }
+    .why-choose-us-section .single-items-wrapper .why-choose-single-items {
+        display: block;
+    }
+    .why-choose-us-section .single-items-wrapper .why-choose-single-items .icon {
+        margin-bottom: 15px;
+    }
+    .why-choose-us-section .single-items-wrapper .why-choose-single-items {
+        padding: 42px 25px 20px 25px;
+    }
+    .progress-item .single-progressbar .progressbar .percentCount {
+        top: -36px;
+        padding: 5px 8px;
+        font-size: 10px;
+    }
+    .footer-top.volunteer {
+        margin-top: 90px;
+    }
+    .issues-around-us-section {
+        margin-top: 90px;
+    }
+    .contact-page-wrapper .contact-form .content .title-shape.style-02 {
+        left: 16%;
+        top: -38%;
+        max-width: 100px;
+    }
+    .people-say-single-item.style-01 {
+        padding: 30px;
+    }
+    .people-say-single-item-02 .testimonial-carousel-four .owl-nav .owl-prev {
+        top: 90%;
+    }
+    .people-say-single-item-02 .testimonial-carousel-four .owl-nav .owl-next {
+        top: 90%;
+    }
+    .contact_info_list li.single-info-item .icon.style-01 {
+        margin-left: 5px;
+    }
+    .counter-single-item.style-02 {
+        bottom: -15px;
+        left: 52px;
+    }
+    .header-area .subtitle {
+        line-height: 28px;
+    }
+    .meet-member-wrapper .meet-member-img .member-quotes {
+        left: -43%;
+    }
+    .meet-member-wrapper .meet-member-img .member-quotes .title {
+        max-width: 315px;
+        font-size: 18px;
+        line-height: 28px;
+    }
+    .meet-single-items .content .title {
+        font-size: 28px;
+        line-height: 38px;
+    }
+    .political-gallery-item .gallery-single-items .content .title {
+        display: none;
+    }
+    .political-testimonial-section .political-slider-two .slide-arrow.prev-arrow {
+        left: -10%;
+    }
+    .political-testimonial-section .political-slider-two .slide-arrow.next-arrow {
+        right: -10%;
+    }
+    .testimonial-carousel-eight .owl-item.center .single-party-member-item-02 .content {
+        left: 17%;
+        top: 44%;
+        width: 200px;
+        padding: 15px 15px 15px 15px;
+    }
+    .inner-single-items .content h6 {
+        font-size: 15px;
+        line-height: 25px;
+    }
+    /* Home Page Five */
+    .header-area .home-five-banner {
+        padding: 15px 15px 15px 15px;
+    }
+    /* Home Page Six */
+    .header-area.header-sanatory .header-inner-03 .title img {
+        max-width: 126px;
+        left: 78px;
+    }
+    .counter-single-item.style-03 {
+        padding: 5px 15px 5px 15px;
+    }
+    .counter-single-item.style-03 .counter-item span {
+        font-size: 30px;
+    }
+    .counter-single-item.style-03 .counter-item::before {
+        top: -8px;
+        font-size: 38px;
+    }
+    .counter-single-item.style-03 .counter-item {
+        margin-right: 5px;
+        padding-right: 18px;
+    }
+    .call-to-action-section .cta-items .title {
+        font-size: 23px;
+    }
+    .section-title .title {
+        font-size: 27px;
+        line-height: 37px;
+    }
+    .campaign-section-area .campaign-single-item.home-six .campaign-bg {
+        min-height: 350px;
+    }
+    .campaign-section-area .campaign-single-item.home-six .campaign-bg::after {
+        height: 70%;
+    }
+    .campaign-section-area .campaign-single-item.home-six .campaign-bg .content-wrap {
+        left: 10px;
+    }
+    .counter-single-item.style-04 .counter-item span {
+        font-size: 30px;
+    }
+    .section-title .title {
+        font-size: 25px;
+        line-height: 37px;
+    }
+    .counter-single-item.style-04 .counter-item::before {
+        top: -20px;
+    }
+    /* About Us Two */
+    .administration-single-items .campaigns-no .content {
+        padding: 10px 15px 15px;
+    }
+    .administration-single-items .campaigns-no .content .number {
+        font-size: 30px;
+    }
+    .administration-section .administration-single-items .content p {
+        font-size: 15px;
+    }
+    /* Event TWo */
+    .event-single-items .content .subtitle .location {
+        margin-right: 20px;
+    }
+    /* Event Single Two */
+    .event-single-items .bg-wrapper .event-bg.style-01 {
+        min-height: 185px;
+    }
+    .event-single-items .content.style-02 .title {
+        font-size: 24px;
+    }
+    .navbar-area.nav-style-01 .logo-wrapper {
+        max-width: 160px;
+    }
+    .counter-single-item.home-six .counter-item {
+        margin-right: 0px;
+        padding-right: 13px;
+    }
+    .event-single-items.home-six blockquote:not(.has-light-gray-color):not(.has-very-dark-gray-color):not(.is-style-large):not(.is-style-large) .author-name.style-02 {
+        right: 30%;
+    }
+    /* Donation Sinlge Two */
+    .donation-single-items.home-six .content .title {
+        font-size: 21px;
+    }
+    .donation-single-items.home-six blockquote:not(.has-light-gray-color):not(.has-very-dark-gray-color):not(.is-style-large):not(.is-style-large) p.style-04 {
+        font-size: 17px;
+        line-height: 1.3;
+    }
+    .donation-single-items.home-six blockquote:not(.has-light-gray-color):not(.has-very-dark-gray-color):not(.is-style-large):not(.is-style-large) .author-name.style-02 {
+        right: 29%;
+        bottom: -17%;
+    }
+    /* Blog Four */
+    .news-single-items-two.blog-04 .thumbnail img {
+        height: 200px;
+        object-fit: cover;
+    }
+    /* Issues Sinlge Two */
+    .issues-details-section .bg-wrapper .issue-details-bg-02 {
+        min-height: 200px;
+        background-size: cover;
+    }
+    /* Help And Faq */
+    .icon-box-item-02 {
+        display: block;
+    }
+    .icon-box-item-02 .content {
+        margin-left: 10px;
+        margin-top: 10px;
+    }
+    /* Comming Soon */
+    .comming-soon-item .content .title {
+        font-size: 34px;
+    }
+}
